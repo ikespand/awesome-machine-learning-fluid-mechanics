@@ -102,4 +102,4 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 ### Blogs
 
 
-## Open-source code to generate custom dataset
+## Open Source code to generate custom dataset
