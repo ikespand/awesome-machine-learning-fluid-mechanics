@@ -29,6 +29,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 4. A Perspective on machine learning methods in turbulence modelling, 2020 ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
 
+### Books
+
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
 
@@ -96,3 +98,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - Nathan Kutz has a super nice channel devoted to applied mathematics for fluid mechanics. ([YouTube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/videos "YouTube"))
 
 - For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
+
+### Blogs
+
+
+## Open-source code to generate custom dataset
