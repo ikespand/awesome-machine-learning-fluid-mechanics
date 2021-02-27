@@ -25,7 +25,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. A perspective on machine learning in turbulent flows, 2019. ([Paper](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685 "Paper"))
 
-3. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214http:// "Paper"))
+3. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214http "Paper"))
 
 4. A Perspective on machine learning methods in turbulence modelling, 2020 ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
 
