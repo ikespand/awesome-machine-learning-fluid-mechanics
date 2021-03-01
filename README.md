@@ -31,7 +31,6 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
 
-### Books
 
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
@@ -102,6 +101,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
 
 ### Blogs
+1. [Machine Learning in Computational Fluid Dynamics](https://towardsdatascience.com/machine-learning-in-computational-fluid-dynamics-7018941414b9) 
 
 
 ## Open Source code to generate custom dataset
+
+1. [Nek5000](https://nek5000.mcs.anl.gov/)
+2. [OpenFoam](https://www.openfoam.com/)
