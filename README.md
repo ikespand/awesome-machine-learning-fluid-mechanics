@@ -1,5 +1,5 @@
 # Awesome Machine Learning for Fluid Mechanics
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://tbd)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://tbd) [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0)
 
 A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. 
 
@@ -25,9 +25,12 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. A perspective on machine learning in turbulent flows, 2019. ([Paper](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685 "Paper"))
 
-3. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214http:// "Paper"))
+3. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214 "Paper"))
 
-4. A Perspective on machine learning methods in turbulence modelling, 2020 ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
+4. A Perspective on machine learning methods in turbulence modelling, 2020. ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
+
+5. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
+
 
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
@@ -96,3 +99,12 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - Nathan Kutz has a super nice channel devoted to applied mathematics for fluid mechanics. ([YouTube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/videos "YouTube"))
 
 - For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
+
+### Blogs
+1. [Machine Learning in Computational Fluid Dynamics](https://towardsdatascience.com/machine-learning-in-computational-fluid-dynamics-7018941414b9) 
+
+
+## Open Source code to generate custom dataset
+
+1. [Nek5000](https://nek5000.mcs.anl.gov/)
+2. [OpenFoam](https://www.openfoam.com/)
