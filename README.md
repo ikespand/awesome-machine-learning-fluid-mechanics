@@ -5,9 +5,21 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
+- [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
+  * [Frameworks](#frameworks)
+  * [Research articles](#research-articles)
+    + [Review papers](#review-papers)
+    + [Physics-informed ML](#physics-informed-ml)
+    + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
+    + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
+    + [Others](#others)
+  * [Available datasets](#available-datasets)
+  * [Online video resources](#online-video-resources)
+  * [Blogs and news articles](#blogs-and-news-articles)
+  * [Opensource code and examples](#opensource-code-and-examples)
+  * [Tutorials](#tutorials)
+  * [Companies focusing on ML](#companies-focusing-on-ml)
+  * [Opensource CFD codes](#opensource-cfd-codes)
 
 ## Frameworks
 - [TensorFlow](https://github.com/tensorflow/tensorflow/ "TensorFlow") is a well-known machine learning library developed by Google.
