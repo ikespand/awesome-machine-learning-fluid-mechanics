@@ -4,8 +4,6 @@
 A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. 
 
 **Table of Contents**
-
-- [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
   * [Frameworks](#frameworks)
   * [Research articles](#research-articles)
     + [Review papers](#review-papers)
@@ -15,7 +13,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Others](#others)
   * [Available datasets](#available-datasets)
   * [Online video resources](#online-video-resources)
-  * [Blogs and news articles](#blogs-and-news-articles)
+  * [Blogs, discussions and news articles](#blogs--discussions-and-news-articles)
   * [Opensource code and examples](#opensource-code-and-examples)
   * [Tutorials](#tutorials)
   * [Companies focusing on ML](#companies-focusing-on-ml)
@@ -39,15 +37,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 ## Research articles
 
 ### Review papers
-1. Turbulence modeling in the age of data, 2019. ([Paper](https://arxiv.org/abs/1804.00183 "Paper"))
+1. Application of machine learning algorithms to flow modeling and optimization, 1999. ([Paper](https://web.stanford.edu/group/ctr/ResBriefs99/petros.pdf))
 
-2. A perspective on machine learning in turbulent flows, 2019. ([Paper](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685 "Paper"))
+2. Turbulence modeling in the age of data, 2019. ([Paper](https://arxiv.org/abs/1804.00183 "Paper"))
 
-3. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214 "Paper"))
+3. A perspective on machine learning in turbulent flows, 2020. ([Paper](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685 "Paper"))
 
-4. A Perspective on machine learning methods in turbulence modelling, 2020. ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
+4. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214 "Paper"))
 
-5. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
+5. A Perspective on machine learning methods in turbulence modelling, 2020. ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
+
+6. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
 
 
 ### Physics-informed ML
@@ -80,11 +80,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. A deep learning enabler for nonintrusive reduced order modeling of fluid flows, 2019. ([Paper](https://arxiv.org/abs/1907.04945 "Paper"))
 
-6. Echo State Network for two-dimensional turbulent moist Rayleigh-Bénard convection, 2020. ([Paper](https://arxiv.org/abs/2101.11325 "Paper"))
+6. Echo state network for two-dimensional turbulent moist Rayleigh-Bénard convection, 2020. ([Paper](https://arxiv.org/abs/2101.11325 "Paper"))
 
-7. DeepCFD: Efficient Steady-State Laminar Flow
-Approximation with Deep Convolutional Neural
-Networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](https://github.com/mdribeiro/DeepCFD "Code"))
+7. DeepCFD: Efficient steady-state laminar flow approximation with deep convolutional neural networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](https://github.com/mdribeiro/DeepCFD "Code"))
 
 ### Pattern identification and experimental applications
 
@@ -125,12 +123,28 @@ Networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](
 
 - For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
 
-## Blogs and news articles
-1. [Supercomputing simulations and machine learning help improve power plant](https://www.eurekalert.org/pub_releases/2018-08/gcfs-ssa082018.php "Supercomputing simulations and machine learning help improve power plant"), 2018.
+## Blogs, discussions and news articles
+1. [Convolutional Neural Networks for Steady Flow Approximation](https://www.autodesk.com/research/publications/convolutional-neural-networks), 2016. (Autodesk)
 
-2. [Machine Learning in Computational Fluid Dynamics](https://towardsdatascience.com/machine-learning-in-computational-fluid-dynamics-7018941414b9), 2020. 
+2. [CFD + Machine learning for super fast simulations](https://www.reddit.com/r/CFD/comments/5n91uz/cfd_machine_learning_for_super_fast_simulations/ "CFD + Machine learning for super fast simulations"), 2017. (Reddit)
 
-3. [Studying the nature of turbulence with Neural Concept's deep learning platform](https://www.numeca.com/readnews/article/616 "Studying the nature of turbulence with Neural Concept's deep learning platform"), 2020.
+3. [What is the role of Artificial Intelligence (AI) or Machine Learning in CFD?](https://www.quora.com/What-is-the-role-of-Artificial-Intelligence-AI-or-Machine-Learning-in-CFD "What is the role of Artificial Intelligence (AI) or Machine Learning in CFD?"), 2017. (Quora)
+
+4. [Supercomputing simulations and machine learning help improve power plant](https://www.eurekalert.org/pub_releases/2018-08/gcfs-ssa082018.php "Supercomputing simulations and machine learning help improve power plant"), 2018.
+
+5. [When CAE Meets AI: Deep Learning For CFD Simulations](https://blog.theubercloud.com/when-cae-meets-ai-deep-learning-for-cfd-simulations), 2019. (Ubercloud)
+
+6. [Machine Learning in Computational Fluid Dynamics](https://towardsdatascience.com/machine-learning-in-computational-fluid-dynamics-7018941414b9), 2020. (TowardsDataScience)
+
+7. [Studying the nature of turbulence with Neural Concept's deep learning platform](https://www.numeca.com/readnews/article/616 "Studying the nature of turbulence with Neural Concept's deep learning platform"), 2020. (Numeca)
+
+8. [A case for machine learning in CFD](https://tinyurl.com/2f6u8jab), 2020. (Medium)
+
+9. [Machine Learning for Accelerated Aero-Thermal Design in the Age of Electromobility](https://blog.engys.com/machine-learning-for-accelerated-aero-thermal-design-in-the-age-of-electromobility/ "Machine Learning for Accelerated Aero-Thermal Design in the Age of Electromobility"), 2020. (Engys)
+
+10. [A general purpose list for tranisitioning to data science and ML](https://ikespand.github.io/posts/resources_ml/), 2021. 
+
+11. [A compiled list of projects from NVIDIA where AI and CFD were used](https://developer.nvidia.com/taxonomy/term/727), 2021.
 
 ## Opensource code and examples
 - Repositiory [machine-learning-applied-to-cfd](https://github.com/AndreWeiner/machine-learning-applied-to-cfd "machine-learning-applied-to-cfd") has some excellent examples to begin with CFD and ML.
@@ -143,12 +157,13 @@ Networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](
 -  [Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss](https://depositonce.tu-berlin.de/bitstream/11303/9456/5/podnotes_aiaa2019.pdf "Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss"): A step by step tutorial including the data and a Matlab implementation. POD is often used for dimensionality reduction.
 
 ## Companies focusing on ML
-- [Neural Concepts](https://neuralconcept.com/ "Neural Concepts") is harness deep learning for the accelerated simulation and design.
+- [Neural Concepts](https://neuralconcept.com/ "Neural Concepts") is harnessing deep learning for the accelerated simulation and design.
+- [Flowfusic](https://www.flowfusic.com/about) is a cloud based provider for CFD simulation based upon OpenFOAM. They are exploring some use cases for AI and CFD.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapated for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
 1. [Nek5000](https://nek5000.mcs.anl.gov/)
-2. [OpenFoam](https://www.openfoam.com/)
+2. [OpenFOAM](https://www.openfoam.com/)
 3. [PyFr](http://www.pyfr.org/ "PyFr")
 4. [Nektar++](https://www.nektar.info/ "Nektar++")
 5. [Flexi](https://www.flexi-project.org/ "Flexi")
