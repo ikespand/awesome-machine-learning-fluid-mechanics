@@ -69,6 +69,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 9. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([Paper](https://arxiv.org/abs/2102.11400 "Paper"))
 
+10. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([Paper](https://arxiv.org/abs/2104.01842))
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
 
@@ -83,6 +85,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 6. Echo state network for two-dimensional turbulent moist Rayleigh-Bénard convection, 2020. ([Paper](https://arxiv.org/abs/2101.11325 "Paper"))
 
 7. DeepCFD: Efficient steady-state laminar flow approximation with deep convolutional neural networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](https://github.com/mdribeiro/DeepCFD "Code"))
+
+8. From coarse wall measurements to turbulent velocity fields with deep learning, 2021. ([Paper](https://arxiv.org/abs/2103.07387))
+
+9. Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, 2021. ([Paper](https://arxiv.org/abs/2010.13351), | Data: Contact authors)
 
 ### Pattern identification and experimental applications
 
