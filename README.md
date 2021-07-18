@@ -1,5 +1,6 @@
 # Awesome Machine Learning for Fluid Mechanics
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers)
+
 
 A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. 
 
@@ -7,11 +8,13 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
   * [Frameworks](#frameworks)
   * [Research articles](#research-articles)
+    + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
     + [Others](#others)
+  * [ML-focused events](#ml-focused-events)
   * [Available datasets](#available-datasets)
   * [Online video resources](#online-video-resources)
   * [Blogs, discussions and news articles](#blogs--discussions-and-news-articles)
@@ -20,6 +23,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Tutorials](#tutorials)
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
+
 
 ## Frameworks
 - [TensorFlow](https://github.com/tensorflow/tensorflow/ "TensorFlow") is a well-known machine learning library developed by Google.
@@ -34,9 +38,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 - [PySINDy](https://github.com/dynamicslab/pysindy "PySINDy") is a package with several implementations for the Sparse Identification of Nonlinear Dynamical systems (SINDy). It is also well suited for a dynamical system. 
 
+- [PyDMD](https://github.com/mathLab/PyDMD) is a python package for dynamic mode decomposition which is often used for reduced order modelling now.
+
 - [PYPARSVD](https://github.com/Romit-Maulik/PyParSVD "PYPARSVD") is an implementation for singular value decomposition (SVD) which is distributed and parallelized which makes it efficient for large data.
 
 ## Research articles
+
+### Editorials 
+1. [Editorial: Machine Learning and Physical Review Fluids: An Editorial Perspective](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.6.070001), 2021.
 
 ### Review papers
 1. Application of machine learning algorithms to flow modeling and optimization, 1999. ([Paper](https://web.stanford.edu/group/ctr/ResBriefs99/petros.pdf))
@@ -72,6 +81,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 9. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([Paper](https://arxiv.org/abs/2102.11400 "Paper"))
 
 10. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([Paper](https://arxiv.org/abs/2104.01842))
+
+11. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
+
+12. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
 
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
@@ -115,6 +128,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 6. Physics guided machine learning using
 simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038929) | [Code](https://github.com/surajp92/PGML]))
+
+
+## ML-focused events
+1. [Turbulence Modeling: Roadblocks, and the Potential for Machine Learning](https://turbmodels.larc.nasa.gov/turb-prs2021.html), Scheduled for 2022, USA. 
+
+2. [Symposium on Model-Consistent Data-driven Turbulence Modeling](http://turbgate.engin.umich.edu/symposium/index21.html), 2021, Virtual Event.
+
+3. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
+
+
+
 
 ## Available datasets
 1. KTH FLOW: A rich dataset of different turbulent flow generated by DNS,  LES and experiments. ([Simulation data](https://www.flow.kth.se/flow-database/simulation-data-1.791810http:// "Data") | [Experimental data](https://www.flow.kth.se/flow-database/experimental-data-1.791818 "Experimental data") | [Paper-1](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/history-effects-and-near-equilibrium-in-adversepressuregradient-turbulent-boundary-layers/39C38082C380F396D004B65F438C296A "Paper-1"))
@@ -164,7 +188,7 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 2. [VinuesaLab](https://www.vinuesalab.com/), KTH, Sweden.
 
-3. [DeepTrub](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-stroemungsmechanik/carl-zeiss-stiftung-projekt-deepturb): Deep Learning in and of Turbulence, TU Ilmenau, Germany.
+3. [DeepTurb](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-maschinenbau/profil/institute-und-fachgebiete/fachgebiet-stroemungsmechanik/carl-zeiss-stiftung-projekt-deepturb): Deep Learning in and of Turbulence, TU Ilmenau, Germany.
 
 ## Opensource code and examples
 - Repositiory [machine-learning-applied-to-cfd](https://github.com/AndreWeiner/machine-learning-applied-to-cfd "machine-learning-applied-to-cfd") has some excellent examples to begin with CFD and ML.
