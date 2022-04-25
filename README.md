@@ -86,6 +86,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 12. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
 
+13. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection ([arXiv](https://arxiv.org/abs/2103.03565))
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
 
@@ -104,6 +106,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 8. From coarse wall measurements to turbulent velocity fields with deep learning, 2021. ([Paper](https://arxiv.org/abs/2103.07387))
 
 9. Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, 2021. ([Paper](https://arxiv.org/abs/2010.13351), | Data: Contact authors)
+
+10. Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection, 2022. ([arXiv](https://arxiv.org/abs/2202.13129) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0087977) | Data: Contact authors)
 
 ### Pattern identification and experimental applications
 
