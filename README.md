@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers)
 
 
-A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a coprehensive list, therefore, if you're the author of relevant content then please feel free to add it here.
+A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a comprehensive, therefore, if you're the author of any relevant content then please feel free to add it here.
 
 **Table of Contents**
 - [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
@@ -10,13 +10,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Research articles](#research-articles)
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
+    + [Quantum Machine Learning](#quantum-machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
     + [Others](#others)
   * [ML-focused events](#ml-focused-events)
   * [Available datasets](#available-datasets)
-  * [Online video resources](#online-video-resources)
+  * [Online resources](#online-resources)
   * [Blogs, discussions and news articles](#blogs--discussions-and-news-articles)
   * [Ongoing researchs, projects and labs](#ongoing-researchs--projects-and-labs)
   * [Opensource code and examples](#opensource-code-and-examples)
@@ -62,14 +63,18 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 6. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
 
-7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ((Paper)[https://www.sciencedirect.com/science/article/pii/S0360132321007137])
+7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ([Paper](https://www.sciencedirect.com/science/article/pii/S0360132321007137))
 
-8.  
 
 ### Quantum Machine Learning 
-1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ((Paper)[https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987])
+1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
-2. Quantum reservoir computing of thermal convection flow, 2022. ((Paper)[https://arxiv.org/pdf/2204.13951.pdf])
+2. Quantum reservoir computing of thermal convection flow, 2022. ([Paper](https://arxiv.org/pdf/2204.13951.pdf))
+
+### Interpreted Machine Learning 
+1. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
+
+2. Interpreted machine learning in fluid dynamics: explaining relaminarisation events in wall-bounded shear flows, 2022, ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interpreted-machine-learning-in-fluid-dynamics-explaining-relaminarisation-events-in-wallbounded-shear-flows/C2CA43557475FF09B2FCEC06D99BB0FE) | [Data](https://datashare.ed.ac.uk/handle/10283/4424))
 
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
@@ -92,13 +97,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([Paper](https://arxiv.org/abs/2104.01842))
 
-11. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
+11. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
 
-12. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
+12. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection ([arXiv](https://arxiv.org/abs/2103.03565))
 
-13. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection ([arXiv](https://arxiv.org/abs/2103.03565))
-
-14. Learned Turbulence Modelling with Differentiable Fluid Solvers ([arXiv(https://arxiv.org/abs/2202.06988)] )
+13. Learned Turbulence Modelling with Differentiable Fluid Solvers ([arXiv(https://arxiv.org/abs/2202.06988)] )
 
 
 ### Reduced-order modeling aided ML
