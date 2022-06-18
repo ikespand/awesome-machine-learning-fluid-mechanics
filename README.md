@@ -62,6 +62,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 6. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
 
+7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ((Paper)[https://www.sciencedirect.com/science/article/pii/S0360132321007137])
+
+8.  
+
+### Quantum Machine Learning 
+1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ((Paper)[https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987])
+
+2. Quantum reservoir computing of thermal convection flow, 2022. ((Paper)[https://arxiv.org/pdf/2204.13951.pdf])
 
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
@@ -140,13 +148,14 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 
 ## ML-focused events
-1. [Turbulence Modeling: Roadblocks, and the Potential for Machine Learning](https://turbmodels.larc.nasa.gov/turb-prs2021.html), Scheduled for 2022, USA. 
+
+1. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
 
 2. [Symposium on Model-Consistent Data-driven Turbulence Modeling](http://turbgate.engin.umich.edu/symposium/index21.html), 2021, Virtual Event.
 
-3. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
+3. [Turbulence Modeling: Roadblocks, and the Potential for Machine Learning](https://turbmodels.larc.nasa.gov/turb-prs2021.html), 2022, USA. 
 
-
+4. [Mini symposia: Analysis of Real World and Industry Applications: emerging frontiers in CFD computing, machine learning and beyond](https://www.wccm2022.org/minisymposia1217.html), 2022, Yokohama, Japan.
 
 
 ## Available datasets
@@ -190,9 +199,14 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 9. [Machine Learning for Accelerated Aero-Thermal Design in the Age of Electromobility](https://blog.engys.com/machine-learning-for-accelerated-aero-thermal-design-in-the-age-of-electromobility/ "Machine Learning for Accelerated Aero-Thermal Design in the Age of Electromobility"), 2020. (Engys)
 
-10. [A general purpose list for tranisitioning to data science and ML](https://ikespand.github.io/posts/resources_ml/), 2021. 
+10. [A general purpose list for transitioning to data science and ML](https://ikespand.github.io/posts/resources_ml/), 2021. 
 
 11. [A compiled list of projects from NVIDIA where AI and CFD were used](https://developer.nvidia.com/taxonomy/term/727), 2021.
+
+12. [AI for CFD](https://becominghuman.ai/ai-for-cfd-intro-part-1-d1184936fc47), 2021. (Medium)
+
+12. [4 Myths about AI in CFD](https://blogs.sw.siemens.com/simcenter/4-myths-about-ai-in-cfd/), 2021. (Siemens)
+
 
 ## Ongoing researchs, projects and labs
 1. [Center for Data-Driven Computational Physics](http://cddcp.sites.uofmhosting.net/), University of Michigan, USA.
