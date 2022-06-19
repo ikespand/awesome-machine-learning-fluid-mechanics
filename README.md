@@ -11,6 +11,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
+    + [Interpreted Machine Learning](#interpreted-machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
@@ -101,8 +102,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 12. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection ([arXiv](https://arxiv.org/abs/2103.03565))
 
-13. Learned Turbulence Modelling with Differentiable Fluid Solvers ([arXiv(https://arxiv.org/abs/2202.06988)] )
+13. Learned Turbulence Modelling with Differentiable Fluid Solvers ([arXiv](https://arxiv.org/abs/2202.06988)] )
 
+14. Physics-informed data based neural networks for two-dimensional turbulence ([arXiv](https://arxiv.org/pdf/2203.02555.pdf)] | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
 
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
