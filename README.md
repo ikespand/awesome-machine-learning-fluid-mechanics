@@ -127,6 +127,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection, 2022. ([arXiv](https://arxiv.org/abs/2202.13129) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0087977) | Data: Contact authors)
 
+11. Cost function for low‑dimensional manifold topology assessment ([Paper](https://www.nature.com/articles/s41598-022-18655-1) | [Data](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air/) | [Code](https://github.com/kamilazdybal/cost-function-manifold-assessment))
 ### Pattern identification and experimental applications
 
 1. Deep learning in turbulent convection networks, 2019. ([Paper](https://www.pnas.org/content/116/18/8667 "Paper"))
@@ -185,6 +186,10 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 - A course on [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture) from TU Braunschweig.
 
+- Looking for coursed for TensorFlow, PyTorch, GAN etc. then have a look to [this wonderful YouTube channel](https://www.youtube.com/c/AladdinPersson/playlists)
+
+- Interviews with researchers, podcast revolving around fluid mechanics, machine learning and simulation [on this YouTube channel](https://www.youtube.com/c/TheEngiineer/videos)
+
 ## Blogs, discussions and news articles
 1. [Convolutional Neural Networks for Steady Flow Approximation](https://www.autodesk.com/research/publications/convolutional-neural-networks), 2016. (Autodesk)
 
@@ -232,6 +237,8 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 - [Deep-Flow-Prediction](https://github.com/thunil/Deep-Flow-Prediction) has the code for data generation, neural network training, and evaluation.
 
 - [TensorFlowFoam](https://github.com/argonne-lcf/TensorFlowFoam) with few tutorials on TensorFlow and OpenFoam.
+
+- [Reduced-order modeling of reacting flows using data-driven approaches](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) have a Jupyter-Notebook example for the data driven modeling.
 
 ## Tutorials
 -  [Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss](https://depositonce.tu-berlin.de/bitstream/11303/9456/5/podnotes_aiaa2019.pdf "Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss"): A step by step tutorial including the data and a Matlab implementation. POD is often used for dimensionality reduction.
