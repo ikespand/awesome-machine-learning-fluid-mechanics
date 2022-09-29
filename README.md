@@ -34,7 +34,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 - [Scikit-learn ](https://github.com/scikit-learn/scikit-learn "Scikit-learn ")is all-purpose machine learning library. It also provides the implementation of several other data analysis algorithm.
 
-- [easyesn](https://github.com/kalekiu/easyesn "easyesn") is a very good implementation of echo state network (reservoir computing). ESN often finds its application in dynamical systems.
+- [easyesn](https://github.com/kalekiu/easyesn "easyesn") is a very good implementation of echo state network (ESN aka. reservoir computing). ESN often finds its application in dynamical systems.
 
 - [EchoTorch](https://github.com/nschaetti/EchoTorch) is another good implementation for ESN based upon PyTorch.
 
@@ -45,6 +45,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - [PyDMD](https://github.com/mathLab/PyDMD) is a python package for dynamic mode decomposition which is often used for reduced order modelling now.
 
 - [PYPARSVD](https://github.com/Romit-Maulik/PyParSVD "PYPARSVD") is an implementation for singular value decomposition (SVD) which is distributed and parallelized which makes it efficient for large data.
+
+- [turbESN](https://github.com/flohey/turbESN) is a python-based package which relies on PyTorch for ESN as a backend which supports fully autonomous and teacher forced ESN predictions.
 
 ## Research articles
 
@@ -66,6 +68,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ([Paper](https://www.sciencedirect.com/science/article/pii/S0360132321007137))
 
+8. Enhancing Computational Fluid Dynamics with Machine Learning, 2022.  ([Paper](https://www.nature.com/articles/s43588-022-00264-7) | [arXiv](https://arxiv.org/pdf/2110.02085.pdf)) 
+
+9. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
 
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
@@ -106,6 +111,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 14. Physics-informed data based neural networks for two-dimensional turbulence ([arXiv](https://arxiv.org/pdf/2203.02555.pdf)] | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
 
+15. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations ([arXiv](https://arxiv.org/abs/2209.09750)])
+
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
 
@@ -126,6 +134,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 9. Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, 2021. ([Paper](https://arxiv.org/abs/2010.13351), | Data: Contact authors)
 
 10. Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection, 2022. ([arXiv](https://arxiv.org/abs/2202.13129) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0087977) | Data: Contact authors)
+
+11. Cost function for low‑dimensional manifold topology assessment ([Paper](https://www.nature.com/articles/s41598-022-18655-1) | [Data](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air/) | [Code](https://github.com/kamilazdybal/cost-function-manifold-assessment))
 
 ### Pattern identification and experimental applications
 
@@ -148,8 +158,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. Engine Combustion System Optimization Using Computational Fluid Dynamics and Machine Learning: A Methodological Approach, 2021. ([Paper](https://asmedigitalcollection.asme.org/energyresources/article-abstract/143/2/022306/1086007/Engine-Combustion-System-Optimization-Using))
 
-6. Physics guided machine learning using
-simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038929) | [Code](https://github.com/surajp92/PGML]))
+6. Physics guided machine learning using simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038929) | [Code](https://github.com/surajp92/PGML]))
+
+7. Prospects of federated machine learning in fluid dynamics, 2022. ([Paper](https://aip.scitation.org/doi/10.1063/5.0104344))
+
 
 
 ## ML-focused events
@@ -161,6 +173,12 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 3. [Turbulence Modeling: Roadblocks, and the Potential for Machine Learning](https://turbmodels.larc.nasa.gov/turb-prs2021.html), 2022, USA. 
 
 4. [Mini symposia: Analysis of Real World and Industry Applications: emerging frontiers in CFD computing, machine learning and beyond](https://www.wccm2022.org/minisymposia1217.html), 2022, Yokohama, Japan.
+
+5. [IUTAM Symposium on Data-driven modeling and optimization in fluid mechanics](https://conferences.au.dk/iutam), 2022, Denmark.
+
+6. [33rd Parallel Computational Fluid Dynamics International Conference](https://www.ercoftac.org/events/parcfd-2022/), 2022, Italy.
+
+7. [Workshop: data-driven methods in fluid mechanics](https://fluids.leeds.ac.uk/2022/09/02/workshop-data-driven-methods-in-fluid-mechanics/), 2022, Leeds, UK.
 
 
 ## Available datasets
@@ -184,6 +202,12 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 - For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
 
 - A course on [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture) from TU Braunschweig.
+
+- Looking for coursed for TensorFlow, PyTorch, GAN etc. then have a look to [this wonderful YouTube channel](https://www.youtube.com/c/AladdinPersson/playlists)
+
+- Interviews with researchers, podcast revolving around fluid mechanics, machine learning and simulation [on this YouTube channel](https://www.youtube.com/c/TheEngiineer/videos)
+
+- Lecture series videos from [Data-Driven Fluid Mechanics: Combining First Principles and Machine Learning](https://www.datadrivenfluidmechanics.com/index.php/lectures-videos)
 
 ## Blogs, discussions and news articles
 1. [Convolutional Neural Networks for Steady Flow Approximation](https://www.autodesk.com/research/publications/convolutional-neural-networks), 2016. (Autodesk)
@@ -222,7 +246,10 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 4. [Thuerey Group](https://ge.in.tum.de/research/): Numerical methods for physics simulations with deep learning, TU Munich, Germany.
 
-## Opensource code and examples
+5. [Focus Group Data-driven Dynamical Systems Analysis in Fluid Mechanics
+](https://www.ias.tum.de/ias/research-areas/advanced-computation-and-modeling/data-driven-dynamical-systems-analysis-in-fluid-mechanics/), TU Munich, Germany.
+
+## Opensource codes, tutorials and examples
 - Repositiory [machine-learning-applied-to-cfd](https://github.com/AndreWeiner/machine-learning-applied-to-cfd "machine-learning-applied-to-cfd") has some excellent examples to begin with CFD and ML.
 
 - Repository [Computational-Fluid-Dynamics-Machine-Learning-Examples](https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples "Computational-Fluid-Dynamics-Machine-Learning-Examples") has an example implementation for predicting drag from the boundary conditions alongside predicting the velocity and pressure field from the boundary conditions.
@@ -233,13 +260,13 @@ simplified theories, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0038
 
 - [TensorFlowFoam](https://github.com/argonne-lcf/TensorFlowFoam) with few tutorials on TensorFlow and OpenFoam.
 
-## Tutorials
--  [Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss](https://depositonce.tu-berlin.de/bitstream/11303/9456/5/podnotes_aiaa2019.pdf "Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss"): A step by step tutorial including the data and a Matlab implementation. POD is often used for dimensionality reduction.
+- [Reduced-order modeling of reacting flows using data-driven approaches](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) have a Jupyter-Notebook example for the data driven modeling.
+
+-  [Tutorial on the Proper Orthogonal Decomposition (POD) by Julien Weiss](https://depositonce.tu-berlin.de/bitstream/11303/9456/5/podnotes_aiaa2019.pdf "Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss"): A step by step tutorial including the data and a Matlab implementation. POD is often used for dimensionality reduction.
 
 ## Companies focusing on ML
 - [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design.
 - [Flowfusic](https://www.flowfusic.com/about) is a cloud based provider for CFD simulation based upon OpenFOAM. They are exploring some use cases for AI and CFD.
-
 - [byteLAKE](https://www.bytelake.com/en/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
 
 ## Opensource CFD codes
