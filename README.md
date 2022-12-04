@@ -1,6 +1,10 @@
 # Awesome Machine Learning for Fluid Mechanics
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/ikespand/awesome-machine-learning-fluid-mechanics.svg)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/pull/)
 
+[![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers) [![GitHub forks](https://badgen.net/github/forks/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/network/) [![GitHub watchers](https://badgen.net/github/watchers/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/watchers/) [![GitHub contributors](https://badgen.net/github/contributors/ikespand/awesome-machine-learning-fluid-mechanics)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/graphs/contributors/) 
+
+
+----
 
 A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a comprehensive, therefore, if you're the author of any relevant content then please feel free to add it here.
 
@@ -26,6 +30,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
 
+----
 
 ## Frameworks
 - [TensorFlow](https://github.com/tensorflow/tensorflow/ "TensorFlow") is a well-known machine learning library developed by Google.
@@ -39,6 +44,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - [EchoTorch](https://github.com/nschaetti/EchoTorch) is another good implementation for ESN based upon PyTorch.
 
 - [flowTorch](https://github.com/FlowModelingControl/flowtorch) is a Python library for analysis and reduced order modeling of fluid flows.
+
+- [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) is a Python package for solving differential equations with neural networks. 
+
+- [SciANN](https://github.com/sciann/sciann) is a Keras wrapper for scientific computations and physics-informed deep learning.
 
 - [PySINDy](https://github.com/dynamicslab/pysindy "PySINDy") is a package with several implementations for the Sparse Identification of Nonlinear Dynamical systems (SINDy). It is also well suited for a dynamical system. 
 
@@ -68,9 +77,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ([Paper](https://www.sciencedirect.com/science/article/pii/S0360132321007137))
 
-8. Enhancing Computational Fluid Dynamics with Machine Learning, 2022.  ([Paper](https://www.nature.com/articles/s43588-022-00264-7) | [arXiv](https://arxiv.org/pdf/2110.02085.pdf)) 
+8. Physics-informed machine learning, 2021. ([Paper](https://www.nature.com/articles/s42254-021-00314-5))
 
-9. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
+9. Enhancing Computational Fluid Dynamics with Machine Learning, 2022.  ([Paper](https://www.nature.com/articles/s43588-022-00264-7) | [arXiv](https://arxiv.org/pdf/2110.02085.pdf)) 
+
+10. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
 
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
@@ -105,14 +116,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 11. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
 
-12. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection ([arXiv](https://arxiv.org/abs/2103.03565))
+12. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection,2021. ([arXiv](https://arxiv.org/abs/2103.03565))
 
-13. Learned Turbulence Modelling with Differentiable Fluid Solvers ([arXiv](https://arxiv.org/abs/2202.06988)] )
+13. Learned Turbulence Modelling with Differentiable Fluid Solvers, 2021. ([arXiv](https://arxiv.org/abs/2202.06988)] )
 
-14. Physics-informed data based neural networks for two-dimensional turbulence ([arXiv](https://arxiv.org/pdf/2203.02555.pdf)] | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
+14. Physics-informed data based neural networks for two-dimensional turbulence, 2022. ([arXiv](https://arxiv.org/pdf/2203.02555.pdf)] | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
 
-15. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations ([arXiv](https://arxiv.org/abs/2209.09750)])
+15. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations, 2022. ([arXiv](https://arxiv.org/abs/2209.09750)])
 
+16. A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction, 2022. ([arXiv](https://arxiv.org/abs/2211.14680))
+
+17. A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder, 2022. ([arXiv](https://arxiv.org/abs/2009.11990) | [Paper](https://www.sciencedirect.com/science/article/pii/S0021999121007361))
 
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
@@ -162,7 +176,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 7. Prospects of federated machine learning in fluid dynamics, 2022. ([Paper](https://aip.scitation.org/doi/10.1063/5.0104344))
 
-
+8. Graph neural network-accelerated Lagrangian fluid simulation, 2022. ([Paper](https://www.sciencedirect.com/science/article/pii/S0097849322000206)))
 
 ## ML-focused events
 
@@ -234,8 +248,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 12. [AI for CFD](https://becominghuman.ai/ai-for-cfd-intro-part-1-d1184936fc47), 2021. (Medium)
 
-12. [4 Myths about AI in CFD](https://blogs.sw.siemens.com/simcenter/4-myths-about-ai-in-cfd/), 2021. (Siemens)
+13. [4 Myths about AI in CFD](https://blogs.sw.siemens.com/simcenter/4-myths-about-ai-in-cfd/), 2021. (Siemens)
 
+14. [Accelerating Product Development with Physics-Informed Neural Networks and NVIDIA Modulus](https://developer.nvidia.com/blog/accelerating-product-development-with-physics-informed-neural-networks-and-modulus/), 2021. (NVIDIA)
 
 ## Ongoing researchs, projects and labs
 1. [Center for Data-Driven Computational Physics](http://cddcp.sites.uofmhosting.net/), University of Michigan, USA.
@@ -248,6 +263,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. [Focus Group Data-driven Dynamical Systems Analysis in Fluid Mechanics
 ](https://www.ias.tum.de/ias/research-areas/advanced-computation-and-modeling/data-driven-dynamical-systems-analysis-in-fluid-mechanics/), TU Munich, Germany.
+
+6. [Mechanical and AI LAB (MAIL)](https://sites.google.com/view/barati?pli=1), Carnegie Mellon University, USA.
+
+7. [Karniadakis's CRUNCH group](https://www.brown.edu/research/projects/crunch/current-research-0), Brown University, USA.
 
 ## Opensource codes, tutorials and examples
 - Repositiory [machine-learning-applied-to-cfd](https://github.com/AndreWeiner/machine-learning-applied-to-cfd "machine-learning-applied-to-cfd") has some excellent examples to begin with CFD and ML.
@@ -268,6 +287,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 - [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design.
 - [Flowfusic](https://www.flowfusic.com/about) is a cloud based provider for CFD simulation based upon OpenFOAM. They are exploring some use cases for AI and CFD.
 - [byteLAKE](https://www.bytelake.com/en/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
+- [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapated for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
