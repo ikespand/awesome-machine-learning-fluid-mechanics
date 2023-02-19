@@ -15,7 +15,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
-    + [Interpreted Machine Learning](#interpreted-machine-learning)
+    + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
+    + [Reinforcement learning](#reinforcement-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
@@ -25,11 +26,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Online resources](#online-resources)
   * [Blogs, discussions and news articles](#blogs--discussions-and-news-articles)
   * [Ongoing researchs, projects and labs](#ongoing-researchs--projects-and-labs)
-  * [Opensource code and examples](#opensource-code-and-examples)
-  * [Tutorials](#tutorials)
+  * [Opensource codes, tutorials and examples](#opensource-codes--tutorials-and-examples)
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
-
 ----
 
 ## Frameworks
@@ -51,6 +50,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 - [PySINDy](https://github.com/dynamicslab/pysindy "PySINDy") is a package with several implementations for the Sparse Identification of Nonlinear Dynamical systems (SINDy). It is also well suited for a dynamical system. 
 
+- [smarties](https://github.com/cselab/smarties) is a Reinforcement Learning (RL) software designed high-performance C++ implementations of deep RL learning algorithms including V-RACER, CMA, PPO, DQN, DPG, ACER, and NAF.
+
 - [PyDMD](https://github.com/mathLab/PyDMD) is a python package for dynamic mode decomposition which is often used for reduced order modelling now.
 
 - [PYPARSVD](https://github.com/Romit-Maulik/PyParSVD "PYPARSVD") is an implementation for singular value decomposition (SVD) which is distributed and parallelized which makes it efficient for large data.
@@ -65,15 +66,15 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 ### Review papers
 1. Application of machine learning algorithms to flow modeling and optimization, 1999. ([Paper](https://web.stanford.edu/group/ctr/ResBriefs99/petros.pdf))
 
-2. Turbulence modeling in the age of data, 2019. ([Paper](https://arxiv.org/abs/1804.00183 "Paper"))
+2. Turbulence modeling in the age of data, 2019. ([arXiv](https://arxiv.org/abs/1804.00183 "Paper"))
 
 3. A perspective on machine learning in turbulent flows, 2020. ([Paper](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685 "Paper"))
 
 4. Machine learning for fluid mechanics, 2020. ([Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-fluid-010719-060214 "Paper"))
 
-5. A Perspective on machine learning methods in turbulence modelling, 2020. ([Paper](https://arxiv.org/abs/2010.12226 "Paper"))
+5. A Perspective on machine learning methods in turbulence modelling, 2020. ([arXiv](https://arxiv.org/abs/2010.12226 "Paper"))
 
-6. Machine learning accelerated computational fluid dynamics, 2021. ([Paper](https://arxiv.org/abs/2102.01010 "Paper")) 
+6. Machine learning accelerated computational fluid dynamics, 2021. ([arXiv](https://arxiv.org/abs/2102.01010 "Paper")) 
 
 7. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ([Paper](https://www.sciencedirect.com/science/article/pii/S0360132321007137))
 
@@ -86,12 +87,23 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
-2. Quantum reservoir computing of thermal convection flow, 2022. ([Paper](https://arxiv.org/pdf/2204.13951.pdf))
+2. Quantum reservoir computing of thermal convection flow, 2022. ([arXiv](https://arxiv.org/pdf/2204.13951.pdf))
 
-### Interpreted Machine Learning 
-1. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
+### Interpreted (/Explainable) Machine Learning 
+1. Extracting Interpretable Physical Parameters from Spatiotemporal Systems using Unsupervised Learning, 2020. ([ArXiv](https://arxiv.org/abs/1907.06011) | [Blog](https://peterparity.github.io/projects/pde_vae/))
 
-2. Interpreted machine learning in fluid dynamics: explaining relaminarisation events in wall-bounded shear flows, 2022, ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interpreted-machine-learning-in-fluid-dynamics-explaining-relaminarisation-events-in-wallbounded-shear-flows/C2CA43557475FF09B2FCEC06D99BB0FE) | [Data](https://datashare.ed.ac.uk/handle/10283/4424))
+2. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
+
+3. Interpreted machine learning in fluid dynamics: explaining relaminarisation events in wall-bounded shear flows, 2022, ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interpreted-machine-learning-in-fluid-dynamics-explaining-relaminarisation-events-in-wallbounded-shear-flows/C2CA43557475FF09B2FCEC06D99BB0FE) | [Data](https://datashare.ed.ac.uk/handle/10283/4424))
+
+4. Explaining wall-bounded turbulence through deep learning ([arXiv](https://arxiv.org/abs/2302.01250))
+
+
+### Reinforcement learning 
+1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
+
+2. Deep reinforcement learning for turbulent drag reduction in channel flows ([arXiv](https://arxiv.org/abs/2301.09889) | [Code](https://github.com/KTH-FlowAI/MARL-drag-reduction-in-wall-bounded-flows))
+
 
 ### Physics-informed ML
 1. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB "Paper"))
@@ -137,9 +149,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 4. Time-series learning of latent-space dynamics for reduced-order model closure, 2020. ([Paper](https://linkinghub.elsevier.com/retrieve/pii/S0167278919305536 "Paper") | [Code](https://github.com/Romit-Maulik/ML_ROM_Closures "Code"))
 
-5. A deep learning enabler for nonintrusive reduced order modeling of fluid flows, 2019. ([Paper](https://arxiv.org/abs/1907.04945 "Paper"))
+5. A deep learning enabler for nonintrusive reduced order modeling of fluid flows, 2019. ([arXiv](https://arxiv.org/abs/1907.04945 "Paper"))
 
-6. Echo state network for two-dimensional turbulent moist Rayleigh-Bénard convection, 2020. ([Paper](https://arxiv.org/abs/2101.11325 "Paper"))
+6. Echo state network for two-dimensional turbulent moist Rayleigh-Bénard convection, 2020. ([arXiv](https://arxiv.org/abs/2101.11325 "Paper"))
 
 7. DeepCFD: Efficient steady-state laminar flow approximation with deep convolutional neural networks, 2020. ([Paper](https://arxiv.org/pdf/2004.08826.pdf "Paper") | [Code](https://github.com/mdribeiro/DeepCFD "Code"))
 
@@ -157,16 +169,16 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. Time-resolved turbulent velocity field reconstruction using a long short-term memory (LSTM)-based artificial intelligence framework, 2019. ([Paper](https://aip.scitation.org/doi/10.1063/1.5111558 "Paper"))
 
-3. Unsupervised deep learning for super-resolution reconstruction of turbulence, 2020. ([Paper](https://arxiv.org/abs/2007.15324 "Paper"))
+3. Unsupervised deep learning for super-resolution reconstruction of turbulence, 2020. ([arXiv](https://arxiv.org/abs/2007.15324 "Paper"))
 
-4. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([Paper](https://arxiv.org/abs/1906.04029 "Paper"))
+4. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([arXiv](https://arxiv.org/abs/1906.04029 "Paper"))
 
 ### Others
-1. Forecasting of spatiotemporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, 2019. ([Paper](https://arxiv.org/abs/1910.05266 "Paper"))
+1. Forecasting of spatiotemporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, 2019. ([arXiv](https://arxiv.org/abs/1910.05266 "Paper"))
 
 2. Data-assisted reduced-order modeling of extreme events in complex dynamical systems, 2018. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197704 "Paper"))
 
-3. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([Paper](https://arxiv.org/abs/1906.04029 "Paper"))
+3. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([arXiv](https://arxiv.org/abs/1906.04029 "Paper"))
 
 4. Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations, 2020. ([Paper](https://science.sciencemag.org/content/367/6481/1026 "Paper"))
 
@@ -179,7 +191,6 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 8. Graph neural network-accelerated Lagrangian fluid simulation, 2022. ([Paper](https://www.sciencedirect.com/science/article/pii/S0097849322000206)))
 
 ## ML-focused events
-
 1. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
 
 2. [Symposium on Model-Consistent Data-driven Turbulence Modeling](http://turbgate.engin.umich.edu/symposium/index21.html), 2021, Virtual Event.
@@ -194,6 +205,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 7. [Workshop: data-driven methods in fluid mechanics](https://fluids.leeds.ac.uk/2022/09/02/workshop-data-driven-methods-in-fluid-mechanics/), 2022, Leeds, UK.
 
+8. [Lecture Series on Hands on Machine Learning for Fluid Dynamics 2023](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/552/-/online-on-site-hands-on-machine-learning-for-fluid-dynamics-2023), 2023, von Karman Institute, Belgium.
 
 ## Available datasets
 1. KTH FLOW: A rich dataset of different turbulent flow generated by DNS,  LES and experiments. ([Simulation data](https://www.flow.kth.se/flow-database/simulation-data-1.791810http:// "Data") | [Experimental data](https://www.flow.kth.se/flow-database/experimental-data-1.791818 "Experimental data") | [Paper-1](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/history-effects-and-near-equilibrium-in-adversepressuregradient-turbulent-boundary-layers/39C38082C380F396D004B65F438C296A "Paper-1"))
