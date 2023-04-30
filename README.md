@@ -16,10 +16,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
     + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
-    + [Reinforcement learning](#reinforcement-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification and experimental applications](#pattern-identification-and-experimental-applications)
+    + [Reinforcement learning](#reinforcement-learning)
+    + [Geometry optimization/ generation](#geometry-optimization--generation)
     + [Others](#others)
   * [ML-focused events](#ml-focused-events)
   * [Available datasets](#available-datasets)
@@ -84,6 +85,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
 
+11. Improving aircraft performance using machine learning: A review, 2022. ([arXiv](https://arxiv.org/abs/2210.11481), [Paper](https://www.sciencedirect.com/science/article/pii/S1270963823002511))
+
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
@@ -97,12 +100,6 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 3. Interpreted machine learning in fluid dynamics: explaining relaminarisation events in wall-bounded shear flows, 2022, ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/interpreted-machine-learning-in-fluid-dynamics-explaining-relaminarisation-events-in-wallbounded-shear-flows/C2CA43557475FF09B2FCEC06D99BB0FE) | [Data](https://datashare.ed.ac.uk/handle/10283/4424))
 
 4. Explaining wall-bounded turbulence through deep learning ([arXiv](https://arxiv.org/abs/2302.01250))
-
-
-### Reinforcement learning 
-1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
-
-2. Deep reinforcement learning for turbulent drag reduction in channel flows ([arXiv](https://arxiv.org/abs/2301.09889) | [Code](https://github.com/KTH-FlowAI/MARL-drag-reduction-in-wall-bounded-flows))
 
 
 ### Physics-informed ML
@@ -140,6 +137,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 17. A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder, 2022. ([arXiv](https://arxiv.org/abs/2009.11990) | [Paper](https://www.sciencedirect.com/science/article/pii/S0021999121007361))
 
+18. FluxNet: a physics-informed learning-based Riemann solver for transcritical flows with non-ideal thermodynamics, 2022. ([Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216629), [Code](https://git.uwaterloo.ca/jc9wang/fluxnet))
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([Paper](https://arxiv.org/abs/2001.10280))
 
@@ -159,9 +158,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 9. Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, 2021. ([Paper](https://arxiv.org/abs/2010.13351), | Data: Contact authors)
 
-10. Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection, 2022. ([arXiv](https://arxiv.org/abs/2202.13129) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0087977) | Data: Contact authors)
+10. Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection, 2022. ([arXiv](https://arxiv.org/abs/2202.13129) | [arXiv](https://aip.scitation.org/doi/abs/10.1063/5.0087977) | Data: Contact authors)
 
 11. Cost function for low‑dimensional manifold topology assessment ([Paper](https://www.nature.com/articles/s41598-022-18655-1) | [Data](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air/) | [Code](https://github.com/kamilazdybal/cost-function-manifold-assessment))
+
+12. Data-Driven Modeling for Transonic Aeroelastic Analysis, 2023. ([Paper](https://arxiv.org/abs/2304.07046) | [Code, will be available](https://github.com/Nicola-Fonzi/pysu2DMD))
 
 ### Pattern identification and experimental applications
 
@@ -172,6 +173,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 3. Unsupervised deep learning for super-resolution reconstruction of turbulence, 2020. ([arXiv](https://arxiv.org/abs/2007.15324 "Paper"))
 
 4. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([arXiv](https://arxiv.org/abs/1906.04029 "Paper"))
+
+### Reinforcement learning 
+1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
+
+2. Deep reinforcement learning for turbulent drag reduction in channel flows ([arXiv](https://arxiv.org/abs/2301.09889) | [Code](https://github.com/KTH-FlowAI/MARL-drag-reduction-in-wall-bounded-flows))
+
+### Geometry optimization/ generation
+1. Data-driven prediction of the performance of enhanced surfaces from an extensive CFD-generated parametric search space, 2023. ([Paper](https://iopscience.iop.org/article/10.1088/2632-2153/acca60), Data: Contact authors)
 
 ### Others
 1. Forecasting of spatiotemporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, 2019. ([arXiv](https://arxiv.org/abs/1910.05266 "Paper"))
