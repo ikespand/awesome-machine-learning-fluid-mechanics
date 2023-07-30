@@ -150,6 +150,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 20. Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection, 2023. ([arXiv](https://arxiv.org/abs/2307.02674))
 
+21. Machine learning for RANS turbulence modeling of variable property flows. ([arXiv](https://arxiv.org/abs/2210.15384) | [Paper](https://www.sciencedirect.com/science/article/pii/S0045793023000609))
 
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([arXiv](https://arxiv.org/abs/2001.10280))
