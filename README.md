@@ -17,7 +17,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
-    + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
+    + [Interpreted (/Explainable) Machine Learning](#interpreted-explainable-machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Pattern identification, Super-resolution and experimental applications](#pattern-identification--super-resolution-and-experimental-applications)
@@ -209,7 +209,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. A deep neural network architecture for reliable 3D position and size determination for Lagrangian particle tracking using a single camera, 2023. ([Open Access Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ace070) | [Data](https://defocustracking.com/datasets/))
 
-6. Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning, 2023. ([arXiv](https://arxiv.org/abs/2305.05147) | (Open Access Paper)[https://link.springer.com/article/10.1007/s00162-023-00657-y])
+6. Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning, 2023. ([arXiv](https://arxiv.org/abs/2305.05147) | [Open Access Paper](https://link.springer.com/article/10.1007/s00162-023-00657-y))
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
