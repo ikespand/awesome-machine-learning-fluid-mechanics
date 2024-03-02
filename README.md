@@ -1,8 +1,8 @@
 # Awesome Machine Learning for Fluid Mechanics
 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/ikespand/awesome-machine-learning-fluid-mechanics.svg)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/pull/)
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/topics/awesome-lists [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulse) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/pulls) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/ikespand/awesome-machine-learning-fluid-mechanics.svg)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/pull/)
 
-[![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers) [![GitHub forks](https://badgen.net/github/forks/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/network/) [![GitHub watchers](https://badgen.net/github/watchers/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/watchers/) [![GitHub contributors](https://badgen.net/github/contributors/ikespand/awesome-machine-learning-fluid-mechanics)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/graphs/contributors/) 
+[![GitHub stars](https://img.shields.io/github/stars/ikespand/awesome-machine-learning-fluid-mechanics)](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/stargazers) [![GitHub forks](https://badgen.net/github/forks/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/network/) [![GitHub watchers](https://badgen.net/github/watchers/ikespand/awesome-machine-learning-fluid-mechanics/)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/watchers/) [![GitHub contributors](https://badgen.net/github/contributors/ikespand/awesome-machine-learning-fluid-mechanics)](https://GitHub.com/ikespand/awesome-machine-learning-fluid-mechanics/graphs/contributors/)  
 
  [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](mailto:spandey.ike@gmail.com)
 
@@ -204,7 +204,6 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 17. β-Variational autoencoders and transformers for reduced-order modelling of fluid flows, 2024. ([arXiv](https://arxiv.org/abs/2304.03571) | [Paper](https://www.nature.com/articles/s41467-024-45578-4) | [Code](https://github.com/KTH-FlowAI/beta-Variational-autoencoders-and-transformers-for-reduced-order-modelling-of-fluid-flows) | [Data](https://zenodo.org/records/10501216))
 
 
-
 ### Transfer Learning 
 1. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([arXiv](https://arxiv.org/abs/2102.11400 ))
 
@@ -230,8 +229,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 6. Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning, 2023. ([arXiv](https://arxiv.org/abs/2305.05147) | [Open Access Paper](https://link.springer.com/article/10.1007/s00162-023-00657-y))
 
-7. Identifying regions of importance in wall-bounded turbulence through explainable deep learning, 2023/ ([arXiv](https://arxiv.org/abs/2302.01250) | [Code](https://github.com/KTH-FlowAI/Identifying-regions-of-importance-in-wall-bounded-turbulence-through-explainable-deep-learning))
+7. Identifying regions of importance in wall-bounded turbulence through explainable deep learning, 2023. ([arXiv](https://arxiv.org/abs/2302.01250) | [Code](https://github.com/KTH-FlowAI/Identifying-regions-of-importance-in-wall-bounded-turbulence-through-explainable-deep-learning))
 
+8. Data-driven estimation of scalar quantities from planar velocity measurements by deep learning applied to temperature in thermal convection, 2023. ([Paper](https://link.springer.com/article/10.1007/s00348-023-03736-2) | Data : Contact authors)
+
+9. Machine learning-based vorticity evolution and super-resolution of homogeneous isotropic turbulence using wavelet projection, 2024. ([ResearchGate](https://www.researchgate.net/publication/378145820_Machine_learning-based_vorticity_evolution_and_super-resolution_of_homogeneous_isotropic_turbulence_using_wavelet_projection) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/36/2/025120/3262840/Machine-learning-based-vorticity-evolution-and?redirectedFrom=fulltext))
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
@@ -345,15 +347,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 14. [Accelerating Product Development with Physics-Informed Neural Networks and NVIDIA Modulus](https://developer.nvidia.com/blog/accelerating-product-development-with-physics-informed-neural-networks-and-modulus/), 2021. (NVIDIA)
 
-15. [NVIDIA, Rolls-Royce and Classiq Announce Quantum Computing Breakthrough for Computational Fluid Dynamics in Jet Engines](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines?ncid=so-nvsh-992286&dysig_tid=d8392875c185424f99626f91fc2aa79a#cid=hpc02_so-nvsh_en-eu), 2023. (NVIDIA)
+15. [Optimize F1 aerodynamic geometries via Design of Experiments and machine learning](https://aws.amazon.com/blogs/machine-learning/optimize-f1-aerodynamic-geometries-via-design-of-experiments-and-machine-learning/), 2022. (AWS)
 
-16. [Develop Physics-Informed Machine Learning Models with Graph Neural Networks](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/), 2023. (NVIDIA)
+16. [NVIDIA, Rolls-Royce and Classiq Announce Quantum Computing Breakthrough for Computational Fluid Dynamics in Jet Engines](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines?ncid=so-nvsh-992286&dysig_tid=d8392875c185424f99626f91fc2aa79a#cid=hpc02_so-nvsh_en-eu), 2023. (NVIDIA)
 
-17. [The AI algorithm reduces design cycles/costs and time-to-market for advanced products](https://www.anl.gov/taps/article/activo-software-named-finalist-for-the-2023-rd-100-awards), 2023. (ANL)
+17. [Develop Physics-Informed Machine Learning Models with Graph Neural Networks](https://developer.nvidia.com/blog/develop-physics-informed-machine-learning-models-with-graph-neural-networks/), 2023. (NVIDIA)
 
-18. [Closing the gap between High-Performance Computing (HPC) and artificial intelligence (AI)](https://developer.hpe.com/blog/closing-the-gap-between-hpc-and-ai/), 2023. (HPE)
+18. [The AI algorithm reduces design cycles/costs and time-to-market for advanced products](https://www.anl.gov/taps/article/activo-software-named-finalist-for-the-2023-rd-100-awards), 2023. (ANL)
 
-## Ongoing researchs, projects and labs
+19. [Closing the gap between High-Performance Computing (HPC) and artificial intelligence (AI)](https://developer.hpe.com/blog/closing-the-gap-between-hpc-and-ai/), 2023. (HPE)
+
+## Ongoing research, projects and labs
 1. [Center for Data-Driven Computational Physics](http://cddcp.sites.uofmhosting.net/), University of Michigan, USA.
 
 2. [VinuesaLab](https://www.vinuesalab.com/), KTH, Sweden.
