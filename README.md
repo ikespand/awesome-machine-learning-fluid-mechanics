@@ -64,6 +64,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 14. [turbESN](https://github.com/flohey/turbESN) is a python-based package which relies on PyTorch for ESN as a backend which supports fully autonomous and teacher forced ESN predictions.
 
+15. [PyKoopman](https://github.com/dynamicslab/pykoopman) is a Python package for computing data-driven approximations to the Koopman operator. ([Paper](https://arxiv.org/abs/2306.12962))
+
+
 ## Research articles
 
 ### Editorials 
@@ -135,7 +138,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. A neural network based shock detection and localization approach for discontinuous Galerkin methods, 2020. ([arXiv](https://arxiv.org/pdf/2001.08201.pdf ))
 
-9. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([arXiv](https://arxiv.org/abs/2102.11400 ))
+
 
 10. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([arXiv](https://arxiv.org/abs/2104.01842))
 
@@ -196,6 +199,22 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 15. Reduced-order modeling of fluid flows with transformers, 2023. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/35/5/057126/2891586/Reduced-order-modeling-of-fluid-flows-with))
 
+16. Multi-fidelity reduced-order surrogate modeling, 2024. ([arXiv](https://arxiv.org/abs/2309.00325) | [Paper](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2023.0655?af=R))
+
+17. β-Variational autoencoders and transformers for reduced-order modelling of fluid flows, 2024. ([arXiv](https://arxiv.org/abs/2304.03571) | [Paper](https://www.nature.com/articles/s41467-024-45578-4) | [Code](https://github.com/KTH-FlowAI/beta-Variational-autoencoders-and-transformers-for-reduced-order-modelling-of-fluid-flows) | [Data](https://zenodo.org/records/10501216))
+
+
+
+### Transfer Learning 
+1. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([arXiv](https://arxiv.org/abs/2102.11400 ))
+
+2. Non-intrusive, transferable model for coupled turbulent channel-porous media flow based upon neural networks, 2024. ([Paper](https://pubs.aip.org/aip/pof/article/36/2/025112/3262262/Non-intrusive-transferable-model-for-coupled) | Data : Contact authors)
+
+
+# Generative AI
+1. Inpainting Computational Fluid Dynamics with Deep Learning, 2024. ([arXiv](https://arxiv.org/abs/2402.17185))
+
+2. Generative Adversarial Reduced Order Modelling, 2024. ([arXiv](https://arxiv.org/abs/2305.15881) | [Paper](https://www.nature.com/articles/s41598-024-54067-z) | [Code](https://github.com/dario-coscia/GAROM))
 
 ### Pattern identification, Super-resolution and experimental applications
 
@@ -210,6 +229,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 5. A deep neural network architecture for reliable 3D position and size determination for Lagrangian particle tracking using a single camera, 2023. ([Open Access Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ace070) | [Data](https://defocustracking.com/datasets/))
 
 6. Sparse sensor reconstruction of vortex-impinged airfoil wake with machine learning, 2023. ([arXiv](https://arxiv.org/abs/2305.05147) | [Open Access Paper](https://link.springer.com/article/10.1007/s00162-023-00657-y))
+
+7. Identifying regions of importance in wall-bounded turbulence through explainable deep learning, 2023/ ([arXiv](https://arxiv.org/abs/2302.01250) | [Code](https://github.com/KTH-FlowAI/Identifying-regions-of-importance-in-wall-bounded-turbulence-through-explainable-deep-learning))
+
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
@@ -370,6 +392,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8.  [Tutorial on the Proper Orthogonal Decomposition (POD) by Julien Weiss](https://depositonce.tu-berlin.de/bitstream/11303/9456/5/podnotes_aiaa2019.pdf "Tutorial on the **Proper Orthogonal Decomposition (POD)** by Julien Weiss"): A step by step tutorial including the data and a Matlab implementation. POD is often used for dimensionality reduction.
 
+9. [Repository from KTH-FLOW for ML in Fluid Dynamics](https://github.com/KTH-FlowAI) has several implementations from various published papers.
+
 ## Companies focusing on ML
 1. [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design.
 
@@ -382,7 +406,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 5. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
 
 ## Opensource CFD codes
-Following opensource CFD codes can be adapated for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
+Following opensource CFD codes can be adapted for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
 1. [Nek5000](https://nek5000.mcs.anl.gov/)
 2. [OpenFOAM](https://www.openfoam.com/)
 3. [PyFr](http://www.pyfr.org/)
@@ -392,6 +416,7 @@ Following opensource CFD codes can be adapated for synthetic data generation. So
 7. [code_saturne ](https://www.code-saturne.org/cms/web/)
 8. [Dolfyn](https://www.dolfyn.net/)
 9. [Neko](https://github.com/ExtremeFLOW/neko)
+10. [Snek5000](https://snek5000.readthedocs.io/en/latest/)
 
 ## Support Forums
 1. [CFDOnline](https://www.cfd-online.com/Forums/tags/machine%20learning.html)
