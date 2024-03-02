@@ -8,7 +8,7 @@
 
 ----
 
-A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a comprehensive, therefore, if you observe something is missing then please feel free to add it here while adhereing to [contributing guidelines](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/blob/main/CONTRIBUTING.md).
+A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a comprehensive, therefore, if you observe something is missing then please feel free to add it here while adhering to [contributing guidelines](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/blob/main/CONTRIBUTING.md).
 
 **Table of Contents**
 - [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
@@ -17,9 +17,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
-    + [Interpreted (/Explainable) Machine Learning](#interpreted-explainable-machine-learning)
+    + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
+    + [Transfer Learning](#transfer-learning)
+- [Generative AI](#generative-ai)
     + [Pattern identification, Super-resolution and experimental applications](#pattern-identification--super-resolution-and-experimental-applications)
     + [Reinforcement learning](#reinforcement-learning)
     + [Geometry optimization/ generation](#geometry-optimization--generation)
@@ -28,7 +30,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Available datasets](#available-datasets)
   * [Online resources](#online-resources)
   * [Blogs, discussions and news articles](#blogs--discussions-and-news-articles)
-  * [Ongoing researchs, projects and labs](#ongoing-researchs--projects-and-labs)
+  * [Ongoing research, projects and labs](#ongoing-research--projects-and-labs)
   * [Opensource codes, tutorials and examples](#opensource-codes--tutorials-and-examples)
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
