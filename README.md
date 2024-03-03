@@ -21,7 +21,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Transfer Learning](#transfer-learning)
-- [Generative AI](#generative-ai)
+    + [Generative AI](#generative-ai)
     + [Pattern identification, Super-resolution and experimental applications](#pattern-identification--super-resolution-and-experimental-applications)
     + [Reinforcement learning](#reinforcement-learning)
     + [Geometry optimization/ generation](#geometry-optimization--generation)
@@ -212,7 +212,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 2. Non-intrusive, transferable model for coupled turbulent channel-porous media flow based upon neural networks, 2024. ([Paper](https://pubs.aip.org/aip/pof/article/36/2/025112/3262262/Non-intrusive-transferable-model-for-coupled) | Data : Contact authors)
 
 
-# Generative AI
+### Generative AI
 1. Inpainting Computational Fluid Dynamics with Deep Learning, 2024. ([arXiv](https://arxiv.org/abs/2402.17185))
 
 2. Generative Adversarial Reduced Order Modelling, 2024. ([arXiv](https://arxiv.org/abs/2305.15881) | [Paper](https://www.nature.com/articles/s41598-024-54067-z) | [Code](https://github.com/dario-coscia/GAROM))
