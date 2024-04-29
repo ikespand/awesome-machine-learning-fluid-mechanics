@@ -74,6 +74,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 ### Editorials 
 1. [Editorial: Machine Learning and Physical Review Fluids: An Editorial Perspective](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.6.070001), 2021.
 
+2. [An Old-Fashioned Framework for Machine Learning in Turbulence Modeling](https://arxiv.org/abs/2308.00837), 2023. (Presented at NASA)
+
 ### Review papers
 1. Application of machine learning algorithms to flow modeling and optimization, 1999. ([Paper](https://web.stanford.edu/group/ctr/ResBriefs99/petros.pdf))
 
@@ -140,8 +142,6 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. A neural network based shock detection and localization approach for discontinuous Galerkin methods, 2020. ([arXiv](https://arxiv.org/pdf/2001.08201.pdf ))
 
-
-
 10. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([arXiv](https://arxiv.org/abs/2104.01842))
 
 11. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
@@ -169,6 +169,13 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 22. Machine learning for RANS turbulence modeling of variable property flows, 2023. ([arXiv](https://arxiv.org/abs/2210.15384) | [Paper](https://www.sciencedirect.com/science/article/pii/S0045793023000609))
 
 23. A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty, 2023. ([arXiv](https://arxiv.org/abs/2307.02432))
+
+24. Turbulence closure with small, local neural networks: Forced two-dimensional and $\beta$-plane flows, 2024. ([Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003795?af=R) | [arXiv](https://arxiv.org/abs/2304.05029))
+
+25. Data-driven discovery of turbulent flow equations using physics-informed neural networks, 2024. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/36/3/035107/3268437/Data-driven-discovery-of-turbulent-flow-equations?redirectedFrom=fulltext))
+
+26. Turbulence model augmented physics-informed neural networks for mean-flow reconstruction, 2024. ([Paper](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.034605) | [arXiv](https://arxiv.org/abs/2306.01065) | [Code](https://github.com/RigasLab/PINN_SA))
+
 
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([arXiv](https://arxiv.org/abs/2001.10280))
@@ -205,6 +212,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 17. β-Variational autoencoders and transformers for reduced-order modelling of fluid flows, 2024. ([arXiv](https://arxiv.org/abs/2304.03571) | [Paper](https://www.nature.com/articles/s41467-024-45578-4) | [Code](https://github.com/KTH-FlowAI/beta-Variational-autoencoders-and-transformers-for-reduced-order-modelling-of-fluid-flows) | [Data](https://zenodo.org/records/10501216))
 
+18. Shock wave prediction in transonic flow fields using domain-informed probabilistic deep learning, 2024. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/016121/2932992/Shock-wave-prediction-in-transonic-flow-fields?redirectedFrom=fulltext)) 
 
 ### Transfer Learning 
 1. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([arXiv](https://arxiv.org/abs/2102.11400 ))
@@ -235,7 +243,13 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. Data-driven estimation of scalar quantities from planar velocity measurements by deep learning applied to temperature in thermal convection, 2023. ([Paper](https://link.springer.com/article/10.1007/s00348-023-03736-2) | Data : Contact authors)
 
-9. Machine learning-based vorticity evolution and super-resolution of homogeneous isotropic turbulence using wavelet projection, 2024. ([ResearchGate](https://www.researchgate.net/publication/378145820_Machine_learning-based_vorticity_evolution_and_super-resolution_of_homogeneous_isotropic_turbulence_using_wavelet_projection) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/36/2/025120/3262840/Machine-learning-based-vorticity-evolution-and?redirectedFrom=fulltext))
+9. Reconstruction of three-dimensional turbulent flow structures using surface measurements for free-surface flows based on a convolutional neural network, 2023. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reconstruction-of-threedimensional-turbulent-flow-structures-using-surface-measurements-for-freesurface-flows-based-on-a-convolutional-neural-network/DA0663B3D28F78C1056AB4737675EF7B) | [arXiv](https:/
+/arxiv.org/abs/2301.11710))
+
+10. Machine learning-based vorticity evolution and super-resolution of homogeneous isotropic turbulence using wavelet projection, 2024. ([ResearchGate](https://www.researchgate.net/publication/378145820_Machine_learning-based_vorticity_evolution_and_super-resolution_of_homogeneous_isotropic_turbulence_using_wavelet_projection) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/36/2/025120/3262840/Machine-learning-based-vorticity-evolution-and?redirectedFrom=fulltext))
+
+11. Data-driven nonlinear turbulent flow scaling with Buckingham Pi variables, 2024. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-nonlinear-turbulent-flow-scaling-with-buckingham-pi-variables/116D45EFF6E4231E2ACC1B819C20C708) | [arXiv](https://arxiv.org/abs/2402.17990))
+
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
