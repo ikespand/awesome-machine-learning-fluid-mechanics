@@ -20,7 +20,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
-    + [Transfer Learning](#transfer-learning)
+    + [Transfer Leaarning](#transfer-learning)
     + [Generative AI](#generative-ai)
     + [Pattern identification, Super-resolution and experimental applications](#pattern-identification--super-resolution-and-experimental-applications)
     + [Reinforcement learning](#reinforcement-learning)
