@@ -17,14 +17,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
     + [Quantum Machine Learning](#quantum-machine-learning)
-    + [Interpreted (/Explainable) Machine Learning](#interpreted---explainable--machine-learning)
+    + [Interpreted and Explainable Machine Learning](#interpreted-and-explainable-machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
     + [Reduced-order modeling aided ML](#reduced-order-modeling-aided-ml)
     + [Transfer Learning](#transfer-learning)
     + [Generative AI](#generative-ai)
-    + [Pattern identification, Super-resolution and experimental applications](#pattern-identification--super-resolution-and-experimental-applications)
+    + [Patten identification and generation](#patten-identification-and-generation)
     + [Reinforcement learning](#reinforcement-learning)
-    + [Geometry optimization/ generation](#geometry-optimization--generation)
+    + [Geometry optimization or generation](#geometry-optimization-or-generation)
     + [Others](#others)
   * [ML-focused events](#ml-focused-events)
   * [Available datasets](#available-datasets)
@@ -35,6 +35,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
   * [Support Forums](#support-forums)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ----
 
 ## Frameworks
@@ -93,15 +97,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. Physics-informed machine learning, 2021. ([Paper](https://www.nature.com/articles/s42254-021-00314-5))
 
-9. Enhancing Computational Fluid Dynamics with Machine Learning, 2022.  ([arXiv](https://arxiv.org/pdf/2110.02085.pdf) | [Paper](https://www.nature.com/articles/s43588-022-00264-7)) 
+9. A review on deep reinforcement learning for fluid mechanics, 2021. ([arXiv](https://arxiv.org/pdf/1908.04127) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045793021001407))
 
-10. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
+10. Enhancing Computational Fluid Dynamics with Machine Learning, 2022.  ([arXiv](https://arxiv.org/pdf/2110.02085.pdf) | [Paper](https://www.nature.com/articles/s43588-022-00264-7)) 
 
-11. Improving aircraft performance using machine learning: A review, 2022. ([arXiv](https://arxiv.org/abs/2210.11481) | [Paper](https://www.sciencedirect.com/science/article/pii/S1270963823002511))
+11. Applying machine learning to study fluid mechanics, 2022. ([Paper](https://link.springer.com/content/pdf/10.1007/s10409-021-01143-6.pdf))
 
-12. The transformative potential of machine learning for experiments in fluid mechanics, 2023. ([Paper](https://www.nature.com/articles/s42254-023-00622-y))
+12. Improving aircraft performance using machine learning: A review, 2022. ([arXiv](https://arxiv.org/abs/2210.11481) | [Paper](https://www.sciencedirect.com/science/article/pii/S1270963823002511))
 
-13. Super-resolution analysis via machine learning: a survey for fluid flows, 2023. ([Open Access Paper](https://link.springer.com/article/10.1007/s00162-023-00663-0))
+13. The transformative potential of machine learning for experiments in fluid mechanics, 2023. ([Paper](https://www.nature.com/articles/s42254-023-00622-y))
+
+14. Super-resolution analysis via machine learning: a survey for fluid flows, 2023. ([Open Access Paper](https://link.springer.com/article/10.1007/s00162-023-00663-0))
 
 
 ### Quantum Machine Learning 
@@ -111,7 +117,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 3. Reduced-order modeling of two-dimensional turbulent Rayleigh-Bénard flow by hybrid quantum-classical reservoir computing, 2023. ([arXiv](https://arxiv.org/abs/2307.03053))
 
-### Interpreted (/Explainable) Machine Learning 
+### Interpreted and Explainable Machine Learning 
 1. Extracting Interpretable Physical Parameters from Spatiotemporal Systems using Unsupervised Learning, 2020. ([arXiv](https://arxiv.org/abs/1907.06011) | [Blog](https://peterparity.github.io/projects/pde_vae/))
 
 2. An interpretable framework of data-driven turbulence modeling using deep neural networks, 2021. ([Paper](https://aip.scitation.org/doi/10.1063/5.0048909))
@@ -225,7 +231,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. Generative Adversarial Reduced Order Modelling, 2024. ([arXiv](https://arxiv.org/abs/2305.15881) | [Paper](https://www.nature.com/articles/s41598-024-54067-z) | [Code](https://github.com/dario-coscia/GAROM))
 
-### Pattern identification, Super-resolution and experimental applications
+### Patten identification and generation
 
 1. Deep learning in turbulent convection networks, 2019. ([Paper](https://www.pnas.org/content/116/18/8667))
 
@@ -259,8 +265,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 3. DRLinFluids -- An open-source python platform of coupling Deep Reinforcement Learning and OpenFOAM, 2023. ([arXiv](https://arxiv.org/abs/2205.12699) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/34/8/081801/2846652/DRLinFluids-An-open-source-Python-platform-of?redirectedFrom=fulltext) | [Code](https://github.com/venturi123/DRLinFluids))
 
 
-### Geometry optimization/ generation
-1. Data-driven prediction of the performance of enhanced surfaces from an extensive CFD-generated parametric search space, 2023. ([Paper](https://iopscience.iop.org/article/10.1088/2632-2153/acca60) | Data: Contact authors)
+### Geometry optimization or generation
+1. Deep reinforcement learning for heat exchanger shape optimization, 2022. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S001793102200583X) | [Article](https://uwaterloo.ca/research/catalogs/watco-technologies/deep-reinforcement-learning-heat-exchanger-shape))
+
+2. Data-driven prediction of the performance of enhanced surfaces from an extensive CFD-generated parametric search space, 2023. ([Paper](https://iopscience.iop.org/article/10.1088/2632-2153/acca60) | Data: Contact authors)
+
+3. Robust optimization of heat-transfer-enhancing microtextured surfaces based on machine learning surrogate models, ([Paper](https://www.sciencedirect.com/science/article/pii/S0735193323006073) | Data: Contact authors)
+
+4. Deep reinforcement learning and mesh deformation integration for shape optimization of a single pin fin within a micro channel, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0017931024010718))
 
 ### Others
 1. Data-assisted reduced-order modeling of extreme events in complex dynamical systems, 2018. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197704))
