@@ -18,7 +18,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Research articles](#research-articles)
     + [Editorials](#editorials)
     + [Review papers](#review-papers)
-    + [(Applied) Large Language Models](#-applied--large-language-models)
+    + [Applied Large Language Models](#applied-large-language-models)
     + [Quantum Machine Learning](#quantum-machine-learning)
     + [Interpreted and Explainable Machine Learning](#interpreted-and-explainable-machine-learning)
     + [Physics-informed ML](#physics-informed-ml)
@@ -121,7 +121,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 16. Mixing Artificial and Natural Intelligence: From Statistical Mechanics to AI and Back to Turbulence, 2024. ([arXiv](https://arxiv.org/abs/2403.17993) | [Paper](https://iopscience.iop.org/article/10.1088/1751-8121/ad67bb))
 
 17. Data-driven methods for flow and transport in porous media: A review, 2024. ([arXiv](https://arxiv.org/abs/2406.19939) | [Paper](https://www.sciencedirect.com/science/article/pii/S0017931024009797))
-### (Applied) Large Language Models
+### Applied Large Language Models
 1. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
 
 ### Quantum Machine Learning 
