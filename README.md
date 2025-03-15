@@ -121,8 +121,15 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 16. Mixing Artificial and Natural Intelligence: From Statistical Mechanics to AI and Back to Turbulence, 2024. ([arXiv](https://arxiv.org/abs/2403.17993) | [Paper](https://iopscience.iop.org/article/10.1088/1751-8121/ad67bb))
 
 17. Data-driven methods for flow and transport in porous media: A review, 2024. ([arXiv](https://arxiv.org/abs/2406.19939) | [Paper](https://www.sciencedirect.com/science/article/pii/S0017931024009797))
+
 ### Applied Large Language Models
 1. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+
+2. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
+
+3. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
+
+4. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
 
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
@@ -204,6 +211,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 27. Generalized field inversion strategies for data-driven turbulence closure modeling, 2024. ([Open access paper](https://pubs.aip.org/aip/pof/article/36/10/105188/3318159/Generalized-field-inversion-strategies-for-data))
 
+28. A Physics-Informed Autoencoder-NeuralODE Framework (Phy-ChemNODE) for Learning Complex Fuel Combustion Kinetics, 2024. ([Paper](https://neurips.cc/virtual/2024/100084))
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([arXiv](https://arxiv.org/abs/2001.10280))
 
@@ -281,6 +290,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 11. Data-driven nonlinear turbulent flow scaling with Buckingham Pi variables, 2024. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-nonlinear-turbulent-flow-scaling-with-buckingham-pi-variables/116D45EFF6E4231E2ACC1B819C20C708) | [arXiv](https://arxiv.org/abs/2402.17990))
 
+12. Single-snapshot machine learning for super-resolution of turbulence, 2024. ([arXiv](https://arxiv.org/abs/2409.04923) | [Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/singlesnapshot-machine-learning-for-superresolution-of-turbulence/1AF295B2B2A5B02C47FA97C0C28A1D7F))
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
@@ -478,6 +488,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 5. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
 
 6. [DeepSim](https://www.deepsim.io/technology) is a startup backed by [YCombinator](https://www.ycombinator.com)
+
+7. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
+
+8. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapted for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
