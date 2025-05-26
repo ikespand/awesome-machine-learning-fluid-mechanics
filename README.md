@@ -131,6 +131,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 4. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
 
+5. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design. ([Paper](https://arxiv.org/abs/2503.23315))
+
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
@@ -310,6 +312,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 4. Deep reinforcement learning and mesh deformation integration for shape optimization of a single pin fin within a micro channel, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0017931024010718))
 
+5. TripNet: Learning Large-scale High-fidelity 3D Car Aerodynamics with Triplane Networks ([Paper](https://arxiv.org/abs/2503.17400))
+
+
 ### Others
 1. Data-assisted reduced-order modeling of extreme events in complex dynamical systems, 2018. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197704))
 
@@ -374,6 +379,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 4. CTR Stanford: Dataset for turbulent pipe flow and boundary layer generated with DNS. ([Database](https://ctr.stanford.edu/research-data "Database") | [Paper](https://www.pnas.org/content/114/27/E5292 "Paper"))
 
 5. sCO2: Spatial data along the tube for heated and cooled pipe under supercritical pressure. It includes around 50 cases, which is a good start for regression based model to replace correlations. ([Data](https://www.ike.uni-stuttgart.de/forschung/Ueberkritisches-CO2/dns/ "Data") | [Paper-1](https://www.sciencedirect.com/science/article/abs/pii/S0017931017353176 "Paper-1") | [Paper-2](https://www.sciencedirect.com/science/article/abs/pii/S0017931017307998 "Paper-2"))
+
+6. DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks. ([Database](https://dataverse.harvard.edu/dataverse/DrivAerNet) | [Paper-1](https://neurips.cc/virtual/2024/poster/97609) | [Paper-2](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/147/4/041712/1213244/DrivAerNet-A-Parametric-Car-Dataset-for-Data?redirectedFrom=fulltext) | [Video](https://www.youtube.com/watch?v=Y2-s0R_yHpo) | [Code](https://github.com/Mohamedelrefaie/DrivAerNet))
 
 ## Online resources
 1. A first course on machine learning from Nando di Freitas: Little old, recorded in 2013 but very concise and clear. ([YouTube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6 "YouTube") | [Slides](https://www.cs.ubc.ca/~nando/540-2013/lectures.html "Slides"))
