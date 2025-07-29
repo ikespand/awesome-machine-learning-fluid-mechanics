@@ -123,7 +123,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 17. Data-driven methods for flow and transport in porous media: A review, 2024. ([arXiv](https://arxiv.org/abs/2406.19939) | [Paper](https://www.sciencedirect.com/science/article/pii/S0017931024009797))
 
 ### Applied Large Language Models
-1. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/pdf/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
+1. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
 
 2. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
 
