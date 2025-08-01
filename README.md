@@ -123,15 +123,17 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 17. Data-driven methods for flow and transport in porous media: A review, 2024. ([arXiv](https://arxiv.org/abs/2406.19939) | [Paper](https://www.sciencedirect.com/science/article/pii/S0017931024009797))
 
 ### Applied Large Language Models
-1. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+1. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
 
-2. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
+2. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
 
-3. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
+3. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
 
-4. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
+4. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
 
-5. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design. ([Paper](https://arxiv.org/abs/2503.23315))
+5. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
+
+6. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design. ([Paper](https://arxiv.org/abs/2503.23315))
 
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
