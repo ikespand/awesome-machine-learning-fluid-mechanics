@@ -123,18 +123,22 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 17. Data-driven methods for flow and transport in porous media: A review, 2024. ([arXiv](https://arxiv.org/abs/2406.19939) | [Paper](https://www.sciencedirect.com/science/article/pii/S0017931024009797))
 
 ### Applied Large Language Models
-1. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
+1. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
 
-2. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+2. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
 
-3. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
+3. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
 
-4. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
+4. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
 
-5. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
+5. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design, 2025. ([Paper](https://arxiv.org/abs/2503.23315))
 
-6. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design. ([Paper](https://arxiv.org/abs/2503.23315))
+6. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
 
+7. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
+
+8. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
+8. 
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
@@ -217,6 +221,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 28. A Physics-Informed Autoencoder-NeuralODE Framework (Phy-ChemNODE) for Learning Complex Fuel Combustion Kinetics, 2024. ([Paper](https://neurips.cc/virtual/2024/100084))
 
+29. Mitigating ill-conditioning of Reynolds-averaged Navier–Stokes equations for experimental data-driven turbulence closures, 2025. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/37/4/045155/3344393/Mitigating-ill-conditioning-of-Reynolds-averaged?redirectedFrom=fulltext))
+
 ### Reduced-order modeling aided ML
 1. Reservoir computing model of two-dimensional turbulent convection, 2020. ([arXiv](https://arxiv.org/abs/2001.10280))
 
@@ -254,6 +260,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 18. Shock wave prediction in transonic flow fields using domain-informed probabilistic deep learning, 2024. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/36/1/016121/2932992/Shock-wave-prediction-in-transonic-flow-fields?redirectedFrom=fulltext)) 
 
+19. Slim multi-scale convolutional autoencoder-based reduced-order models for interpretable features of a complex dynamical system, 2025. ([arXiv](https://arxiv.org/abs/2501.03070) | [Paper](https://pubs.aip.org/aip/aml/article/3/1/016112/3337304/Slim-multi-scale-convolutional-autoencoder-based))
 ### Transfer Learning 
 1. Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning, 2021. ([arXiv](https://arxiv.org/abs/2102.11400 ))
 
@@ -295,6 +302,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 11. Data-driven nonlinear turbulent flow scaling with Buckingham Pi variables, 2024. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/datadriven-nonlinear-turbulent-flow-scaling-with-buckingham-pi-variables/116D45EFF6E4231E2ACC1B819C20C708) | [arXiv](https://arxiv.org/abs/2402.17990))
 
 12. Single-snapshot machine learning for super-resolution of turbulence, 2024. ([arXiv](https://arxiv.org/abs/2409.04923) | [Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/singlesnapshot-machine-learning-for-superresolution-of-turbulence/1AF295B2B2A5B02C47FA97C0C28A1D7F))
+
+13. Observable-augmented manifold learning for multi-source turbulent flow data, 2025. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/observableaugmented-manifold-learning-for-multisource-turbulent-flow-data/40723B28236B6DCD324A4FA484F49181) | [Code](https://github.com/kfukami/Observable-CNN-AE))
+
 
 ### Reinforcement learning 
 1. Automating Turbulence Modeling by Multi-Agent Reinforcement Learning, 2020. ([arXiv](https://arxiv.org/abs/2005.09023) | [Code](https://github.com/cselab/MARL_LES))
@@ -370,6 +380,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 14. [4th Automotive CFD Prediction Workshop](https://autocfd.org), November 2024, Belfast, Ireland.
 
 15. [Euromech Colloquium on Data-Driven Fluid Dynamics/2nd ERCOFTAC Workshop on Machine Learning for Fluid Dynamics](https://629.euromech.org), April 2025, London UK.
+
+16. [1st International Symposium on AI and Fluid Mechanics (AIFLUIDs 2025)](https://www.aifluids.net/abouts), May 2025, Greece.
+
+17. [Open Conference of AI Agents for Science 2025](https://agents4science.stanford.edu), October 2025, Virtual.
 
 ## Available datasets
 1. KTH FLOW: A rich dataset of different turbulent flow generated by DNS,  LES and experiments. ([Simulation data](https://www.flow.kth.se/flow-database/simulation-data-1.791810http:// "Data") | [Experimental data](https://www.flow.kth.se/flow-database/experimental-data-1.791818 "Experimental data") | [Paper-1](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/history-effects-and-near-equilibrium-in-adversepressuregradient-turbulent-boundary-layers/39C38082C380F396D004B65F438C296A "Paper-1"))
@@ -465,6 +479,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [Fukagata Lab](https://kflab.jp/en/index.php?21H05007), Keio University, Japan.
 
+11. [The Scalable Scientific Machine Learning Lab](https://scalable-sciml-lab.org/about/), Department of Earth Science and Engineering, Imperial College London, UK.
 
 ## Opensource codes, tutorials and examples
 1. Repository [OpenFOAM Machine Learning Hackathon](https://github.com/OFDataCommittee/OFMLHackathon) have various projects originated from [Data Driven Modelling Special Interest Group](https://wiki.openfoam.com/Data_Driven_Modelling_Special_Interest_Group)
@@ -486,21 +501,25 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 9. [Repository from KTH-FLOW for ML in Fluid Dynamics](https://github.com/KTH-FlowAI) has several implementations from various published papers.
 
 ## Companies focusing on ML
-1. [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design.
+1. [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design. [They have raised $27 million Series B](https://www.neuralconcept.com/post/neural-concept-raises-27-million-series-b-to-further-accelerate-global-growth#:~:text=Neural%20Concept%20Raises%20%2427%20million%20Series%20B%20to%20further%20accelerate%20global%20growth,-Press%20Releases&text=%E2%80%8D%5BLausanne%2C%20Switzerland%2C%20June,a%20Series%20B%20funding%20round.) 
 
-2. [Flowfusic](https://www.flowfusic.com/about) is a cloud based provider for CFD simulation based upon OpenFOAM. They are exploring some use cases for AI and CFD.
+2. [Emmi AI](https://www.emmi.ai) promissed deliver AI-Powered physics architecture and models unlock Real-time interaction, slashing simulation times from days to seconds. [They have raise €15M in seed round](https://techfundingnews.com/physics-meets-ai-emmi-ai-snaps-e15m-in-largest-austrian-seed-round-to-supercharge-engineering-simulations/).
 
-3. [byteLAKE](https://www.bytelake.com/en/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
+3. [P-1 AI](http://p-1.ai) promissed to deliver engineering AGI and [managed to raise $23 million seed financing](https://www.businesswire.com/news/home/20250425073932/en/P-1-AI-Comes-Out-of-Stealth-Aims-to-Build-Engineering-AGI-for-Physical-Systems).
 
-4. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
+4. [DeepSim](https://www.deepsim.io/technology) is a startup backed by [YCombinator](https://www.ycombinator.com). As per Crunchbase, DeepSim raised $500K on 2024-09-25 in Pre Seed Round.
 
-5. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
+5. [byteLAKE](https://bytelake.com/product/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
 
-6. [DeepSim](https://www.deepsim.io/technology) is a startup backed by [YCombinator](https://www.ycombinator.com)
+6. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
 
-7. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
+7. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
 
-8. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+8. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
+
+9. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+
+10. [Spaider AI](https://www.spaider.ai) claims to provide workflow to train neural networks to speed-up and improve numerical simulations and to enable real-time performance predictions for CFD, FEM and CEM.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapted for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
