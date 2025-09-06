@@ -12,6 +12,8 @@
 
 A curated list of machine learning papers, codes, libraries, and databases applied to fluid mechanics. This list in no way a comprehensive, therefore, if you observe something is missing then please feel free to add it here while adhering to [contributing guidelines](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics/blob/main/CONTRIBUTING.md).
 
+----
+----
 **Table of Contents**
 - [Awesome Machine Learning for Fluid Mechanics](#awesome-machine-learning-for-fluid-mechanics)
   * [Frameworks](#frameworks)
@@ -29,6 +31,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
     + [Reinforcement learning](#reinforcement-learning)
     + [Geometry optimization or generation](#geometry-optimization-or-generation)
     + [Others](#others)
+    + [Books](#books)
   * [ML-focused events](#ml-focused-events)
   * [Available datasets](#available-datasets)
   * [Online resources](#online-resources)
@@ -38,11 +41,11 @@ A curated list of machine learning papers, codes, libraries, and databases appli
   * [Companies focusing on ML](#companies-focusing-on-ml)
   * [Opensource CFD codes](#opensource-cfd-codes)
   * [Support Forums](#support-forums)
+  * [Star History](#star-history)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
-
+----
 ----
 
 ## Frameworks
@@ -138,7 +141,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 7. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
 
 8. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
-8. 
+
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
@@ -350,6 +353,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 11. Single-snapshot machine learning for turbulence super resolution, 2024. ([arXiv](https://arxiv.org/abs/2409.04923))
 
+### Books
+1. [Approaching machine learning problems in computational fluid dynamics and computer aided engineering applications: A Monograph for Beginners](https://www.amazon.de/-/en/Approaching-learning-computational-engineering-applications/dp/B0CZF4YN31), 2024.
+
 ## ML-focused events
 1. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
 
@@ -415,6 +421,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. Lecture series videos from [Data-Driven Fluid Mechanics: Combining First Principles and Machine Learning](https://www.datadrivenfluidmechanics.com/index.php/lectures-videos)
 
+21. [Substack - AI/Machine learning in fluid mechanics, engineering, physics](https://hodgesj.substack.com) is informative with several ML for fluid examples and reviews.
 
 ## Blogs and news articles
 1. [Convolutional Neural Networks for Steady Flow Approximation](https://www.autodesk.com/research/publications/convolutional-neural-networks), 2016. (Autodesk)
@@ -456,6 +463,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 19. [Closing the gap between High-Performance Computing (HPC) and artificial intelligence (AI)](https://developer.hpe.com/blog/closing-the-gap-between-hpc-and-ai/), 2023. (HPE)
 
 20. [AI for Science, Energy and Security (Special Remarks by DOE Secretary Granholm)](https://www.nvidia.com/en-us/on-demand/session/aisummitdc24-sdc1080/?playlistId=playList-57a63ddc-d012-41fa-9958-e97e775a94b4), 2024. (Panel discussion, NVIDIA)
+
+
 
 ## Ongoing research, projects and labs
 1. [Center for Data-Driven Computational Physics](http://cddcp.sites.uofmhosting.net/), University of Michigan, USA.
@@ -501,25 +510,27 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 9. [Repository from KTH-FLOW for ML in Fluid Dynamics](https://github.com/KTH-FlowAI) has several implementations from various published papers.
 
 ## Companies focusing on ML
-1. [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design. [They have raised $27 million Series B](https://www.neuralconcept.com/post/neural-concept-raises-27-million-series-b-to-further-accelerate-global-growth#:~:text=Neural%20Concept%20Raises%20%2427%20million%20Series%20B%20to%20further%20accelerate%20global%20growth,-Press%20Releases&text=%E2%80%8D%5BLausanne%2C%20Switzerland%2C%20June,a%20Series%20B%20funding%20round.) 
+1. [Neural Concepts](https://neuralconcept.com/) is harnessing deep learning for the accelerated simulation and design. [They have raised $27 million in Series B round](https://www.neuralconcept.com/post/neural-concept-raises-27-million-series-b-to-further-accelerate-global-growth#:~:text=Neural%20Concept%20Raises%20%2427%20million%20Series%20B%20to%20further%20accelerate%20global%20growth,-Press%20Releases&text=%E2%80%8D%5BLausanne%2C%20Switzerland%2C%20June,a%20Series%20B%20funding%20round.).
 
 2. [Emmi AI](https://www.emmi.ai) promissed deliver AI-Powered physics architecture and models unlock Real-time interaction, slashing simulation times from days to seconds. [They have raise €15M in seed round](https://techfundingnews.com/physics-meets-ai-emmi-ai-snaps-e15m-in-largest-austrian-seed-round-to-supercharge-engineering-simulations/).
 
 3. [P-1 AI](http://p-1.ai) promissed to deliver engineering AGI and [managed to raise $23 million seed financing](https://www.businesswire.com/news/home/20250425073932/en/P-1-AI-Comes-Out-of-Stealth-Aims-to-Build-Engineering-AGI-for-Physical-Systems).
 
-4. [DeepSim](https://www.deepsim.io/technology) is a startup backed by [YCombinator](https://www.ycombinator.com). As per Crunchbase, DeepSim raised $500K on 2024-09-25 in Pre Seed Round.
+4. [DeepSim](https://www.deepsim.io/technology) is a startup backed by [YCombinator](https://www.ycombinator.com/companies/deepsim-inc). As per Crunchbase, DeepSim raised $500K on 2024-09-25 in Pre Seed Round.
 
-5. [byteLAKE](https://bytelake.com/product/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
+5. [Navier AI](https://navier.ai/product) is building 1000x faster simulations using physics-ML solvers. Navier AI's fast CFD platform will enable engineers to quickly explore design spaces and perform analysis-in-the-loop design optimization. They are also backed by [YCombinator](https://www.ycombinator.com/companies/navier-ai).
 
-6. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
+6. [byteLAKE](https://bytelake.com/product/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
 
-7. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
+7. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
 
-8. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
+8. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
 
-9. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+9. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
 
-10. [Spaider AI](https://www.spaider.ai) claims to provide workflow to train neural networks to speed-up and improve numerical simulations and to enable real-time performance predictions for CFD, FEM and CEM.
+10. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+
+11. [Spaider AI](https://www.spaider.ai) claims to provide workflow to train neural networks to speed-up and improve numerical simulations and to enable real-time performance predictions for CFD, FEM and CEM.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapted for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
@@ -537,3 +548,6 @@ Following opensource CFD codes can be adapted for synthetic data generation. Som
 ## Support Forums
 1. [CFDOnline](https://www.cfd-online.com/Forums/tags/machine%20learning.html)
 2. [StackExchange](https://scicomp.stackexchange.com/questions/tagged/machine-learning)
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ikespand/awesome-machine-learning-fluid-mechanics&type=Date)](https://www.star-history.com/#ikespand/awesome-machine-learning-fluid-mechanics&Date)
