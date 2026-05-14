@@ -142,6 +142,10 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 8. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
 
+9. ALL-FEM: Agentic Large Language Models fine-tuned for finite element methods, 2026. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782526002586) | [arXiv](https://arxiv.org/pdf/2603.21011))
+
+10. Vortex state transitions in deep street canyons enabled by an automated large language model workflow, 2026, ([Paper](https://pubs.aip.org/aip/pof/article-abstract/38/5/055119/3389270/Vortex-state-transitions-in-deep-street-canyons?redirectedFrom=fulltext))
+
 ### Quantum Machine Learning 
 1. Machine learning and quantum computing for reactive turbulence modeling and simulation, 2021. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0093641321000987))
 
@@ -520,17 +524,19 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 5. [Navier AI](https://navier.ai/product) is building 1000x faster simulations using physics-ML solvers. Navier AI's fast CFD platform will enable engineers to quickly explore design spaces and perform analysis-in-the-loop design optimization. They are also backed by [YCombinator](https://www.ycombinator.com/companies/navier-ai).
 
-6. [byteLAKE](https://bytelake.com/product/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
+6. [ToffeeX](https://toffeex.com/) is a cloud-based, physics-driven generative design software that employs physics simulations to guide the engineering process, creating optimized designs that meet the user’s objectives.
 
-7. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
+7. [byteLAKE](https://bytelake.com/product/) offers a CFD Suite, which is a collection of AI models to [significantly accelerate the execution of CFD simulations](https://becominghuman.ai/ai-accelerated-cfd-computational-fluid-dynamics-how-does-bytelakes-cfd-suite-work-fea42fd0761e).
 
-8. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
+8. [NVIDIA](https://developer.nvidia.com/blog/modulus-v21-06-released-for-general-availability/) is leading with many product and libraries.
 
-9. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
+9. [NAVASTO](https://www.navasto.de/en/) has few products where they are combining AI with CFD.
 
-10. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+10. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
 
-11. [Spaider AI](https://www.spaider.ai) claims to provide workflow to train neural networks to speed-up and improve numerical simulations and to enable real-time performance predictions for CFD, FEM and CEM.
+11. [Ansys AI](https://www.ansys.com/ai) is cloud-enabled generative AI platform that can uses simulation results to reliably assess the performance of a new design within minutes.
+
+12. [Spaider AI](https://www.spaider.ai) claims to provide workflow to train neural networks to speed-up and improve numerical simulations and to enable real-time performance predictions for CFD, FEM and CEM.
 
 ## Opensource CFD codes
 Following opensource CFD codes can be adapted for synthetic data generation. Some of them can also be used for RANS/LES closure modeling based upon ML.
