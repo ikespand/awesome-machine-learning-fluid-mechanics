@@ -67,6 +67,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [smarties](https://github.com/cselab/smarties) is Reinforcement Learning (RL) software designed for high-performance C++ implementations of deep RL algorithms, including V-RACER, CMA, PPO, DQN, DPG, ACER, and NAF.
 
+<details>
+<summary>Archive</summary>
+
 11. [DRLinFluids](https://github.com/venturi123/DRLinFluids) is a flexible Python package that enables the application of Deep Reinforcement Learning (DRL) techniques to Computational Fluid Dynamics (CFD). ([Paper-1](https://doi.org/10.1063/5.0103113) | [Paper-2](https://doi.org/10.1063/5.0152777))
 
 12. [PyDMD](https://github.com/mathLab/PyDMD) is a Python package for dynamic mode decomposition, which is often used for reduced-order modeling.
@@ -80,6 +83,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 16. [MODULO](https://github.com/mendezVKI/MODULO) is a modal decomposition package developed at the von Karman Institute for Fluid Dynamics (VKI). It offers a wide range of decomposition techniques, allowing users to choose the most appropriate method for their specific problem.
 
 17. [DeepXDE](https://github.com/lululxvi/deepxde) is a library for scientific machine learning and physics-informed learning. DeepXDE includes PINN and DeepONet. It supports five tensor libraries as backends: TensorFlow 1.x (tensorflow.compat.v1 in TensorFlow 2.x), TensorFlow 2.x, PyTorch, JAX, and PaddlePaddle.
+
+</details>
 
 ## Research Articles
 
@@ -111,6 +116,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review, 2021. ([Paper](https://www.sciencedirect.com/science/article/pii/S0360132321007137))
 
+<details>
+<summary>Archive</summary>
+
 11. Physics-informed machine learning, 2021. ([Paper](https://www.nature.com/articles/s42254-021-00314-5))
 
 12. A review on deep reinforcement learning for fluid mechanics, 2021. ([arXiv](https://arxiv.org/pdf/1908.04127) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045793021001407))
@@ -124,6 +132,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 16. Turbulence modeling in the age of data, 2019. ([arXiv](https://arxiv.org/abs/1804.00183 "Paper"))
 
 17. Application of machine learning algorithms to flow modeling and optimization, 1999. ([Paper](https://web.stanford.edu/group/ctr/ResBriefs99/petros.pdf))
+
+</details>
 
 ### Applied Large Language Models
 
@@ -195,6 +205,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty, 2023. ([arXiv](https://arxiv.org/abs/2307.02432))
 
+<details>
+<summary>Archive</summary>
+
 11. Physics-informed data based neural networks for two-dimensional turbulence, 2022. ([arXiv](https://arxiv.org/pdf/2203.02555.pdf) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
 
 12. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations, 2022. ([arXiv](https://arxiv.org/abs/2209.09750))
@@ -233,6 +246,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 29. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB))
 
+</details>
+
 ### Reduced-Order Modeling Aided ML
 
 1. Slim multi-scale convolutional autoencoder-based reduced-order models for interpretable features of a complex dynamical system, 2025. ([arXiv](https://arxiv.org/abs/2501.03070) | [Paper](https://pubs.aip.org/aip/aml/article/3/1/016112/3337304/Slim-multi-scale-convolutional-autoencoder-based))
@@ -255,6 +270,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Cost function for low-dimensional manifold topology assessment, 2022. ([Paper](https://www.nature.com/articles/s41598-022-18655-1) | [Data](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air/) | [Code](https://github.com/kamilazdybal/cost-function-manifold-assessment))
 
+<details>
+<summary>Archive</summary>
+
 11. From coarse wall measurements to turbulent velocity fields with deep learning, 2021. ([arXiv](https://arxiv.org/abs/2103.07387))
 
 12. Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow, 2021. ([arXiv](https://arxiv.org/abs/2010.13351) | Data: Contact authors)
@@ -272,6 +290,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 18. Predictions of turbulent shear flows using deep neural networks, 2019. ([arXiv](https://arxiv.org/abs/1905.03634 "Paper") | [Code](https://github.com/KTH-Nek5000/DeepTurbulence "Code"))
 
 19. A deep learning enabler for nonintrusive reduced order modeling of fluid flows, 2019. ([arXiv](https://arxiv.org/abs/1907.04945))
+
+</details>
 
 ### Transfer Learning
 
@@ -309,11 +329,16 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Unsupervised deep learning for super-resolution reconstruction of turbulence, 2020. ([arXiv](https://arxiv.org/abs/2007.15324))
 
+<details>
+<summary>Archive</summary>
+
 11. Nonlinear mode decomposition with convolutional neural networks for fluid dynamics, 2020. ([arXiv](https://arxiv.org/abs/1906.04029))
 
 12. Deep learning in turbulent convection networks, 2019. ([Paper](https://www.pnas.org/content/116/18/8667))
 
 13. Time-resolved turbulent velocity field reconstruction using a long short-term memory (LSTM)-based artificial intelligence framework, 2019. ([Paper](https://aip.scitation.org/doi/10.1063/1.5111558))
+
+</details>
 
 ### Reinforcement Learning
 
@@ -359,7 +384,12 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. Forecasting of spatiotemporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, 2019. ([arXiv](https://arxiv.org/abs/1910.05266))
 
+<details>
+<summary>Archive</summary>
+
 11. Data-assisted reduced-order modeling of extreme events in complex dynamical systems, 2018. ([Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197704))
+
+</details>
 
 ### Books
 
@@ -387,6 +417,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [Lecture Series on Hands on Machine Learning for Fluid Dynamics 2023](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/552/-/online-on-site-hands-on-machine-learning-for-fluid-dynamics-2023), 2023, von Karman Institute, Belgium.
 
+<details>
+<summary>Archive</summary>
+
 11. [Turbulence Modeling: Roadblocks, and the Potential for Machine Learning](https://turbmodels.larc.nasa.gov/turb-prs2021.html), 2022, USA.
 
 12. [Mini symposia: Analysis of Real World and Industry Applications: emerging frontiers in CFD computing, machine learning and beyond](https://www.wccm2022.org/minisymposia1217.html), 2022, Yokohama, Japan.
@@ -400,6 +433,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 16. [Symposium on Model-Consistent Data-driven Turbulence Modeling](http://turbgate.engin.umich.edu/symposium/index21.html), 2021, Virtual Event.
 
 17. [International Workshop on Data-driven Modeling and Optimization in Fluid Mechanics](https://www.istm.kit.edu/dmofm.php), 2019, Karlsruhe, Germany.
+
+</details>
 
 ## Available Datasets
 
@@ -457,6 +492,9 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [AI for CFD](https://becominghuman.ai/ai-for-cfd-intro-part-1-d1184936fc47), 2021. (Medium)
 
+<details>
+<summary>Archive</summary>
+
 11. [4 Myths about AI in CFD](https://blogs.sw.siemens.com/simcenter/4-myths-about-ai-in-cfd/), 2021. (Siemens)
 
 12. [Accelerating Product Development with Physics-Informed Neural Networks and NVIDIA Modulus](https://developer.nvidia.com/blog/accelerating-product-development-with-physics-informed-neural-networks-and-modulus/), 2021. (NVIDIA)
@@ -478,6 +516,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 20. [What is the role of Artificial Intelligence (AI) or Machine Learning in CFD?](https://www.quora.com/What-is-the-role-of-Artificial-Intelligence-AI-or-Machine-Learning-in-CFD "What is the role of Artificial Intelligence (AI) or Machine Learning in CFD?"), 2017. (Quora)
 
 21. [Convolutional Neural Networks for Steady Flow Approximation](https://www.autodesk.com/research/publications/convolutional-neural-networks), 2016. (Autodesk)
+
+</details>
 
 ## Ongoing Research, Projects and Labs
 
@@ -501,7 +541,12 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [Fukagata Lab](https://kflab.jp/en/index.php?21H05007), Keio University, Japan.
 
+<details>
+<summary>Archive</summary>
+
 11. [The Scalable Scientific Machine Learning Lab](https://scalable-sciml-lab.org/about/), Department of Earth Science and Engineering, Imperial College London, UK.
+
+</details>
 
 ## Open-Source Codes, Tutorials and Examples
 
@@ -545,9 +590,14 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 10. [Phinyx AI](https://www.phinyx.ai/solution) leverages Physics-Informed Machine Learning to extract deeper insights while reducing common challenges in traditional AI, such as AI hallucinations.
 
+<details>
+<summary>Archive</summary>
+
 11. [Ansys AI](https://www.ansys.com/ai) is a cloud-enabled generative AI platform that can use simulation results to reliably assess the performance of a new design within minutes.
 
 12. [Spaider AI](https://www.spaider.ai) claims to provide workflows to train neural networks, speed up and improve numerical simulations, and enable real-time performance predictions for CFD, FEM and CEM.
+
+</details>
 
 ## Open-Source CFD Codes
 
