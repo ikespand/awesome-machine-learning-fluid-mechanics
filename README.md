@@ -141,21 +141,23 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. ALL-FEM: Agentic Large Language Models fine-tuned for finite element methods, 2026. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782526002586) | [arXiv](https://arxiv.org/pdf/2603.21011))
 
-3. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
+3. Towards a Physics Foundation Model, 2025. ([arXiv](https://arxiv.org/abs/2509.13805) | [Code](https://github.com/FloWsnr/General-Physics-Transformer) | [Blog](https://flowsnr.github.io/blog/physics-foundation-model/))
 
-4. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
+4. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
 
-5. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design, 2025. ([Paper](https://arxiv.org/abs/2503.23315))
+5. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
 
-6. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
+6. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design, 2025. ([Paper](https://arxiv.org/abs/2503.23315))
 
-7. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
+7. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
 
-8. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
+8. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
 
-9. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+9. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
 
-10. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
+10. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+
+11. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
 
 ### Quantum Machine Learning
 
@@ -458,17 +460,19 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 3. Nathan Kutz has a super nice channel devoted to applied mathematics for fluid mechanics. ([YouTube](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/videos "YouTube"))
 
-4. For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
+4. [Steve Brunton](https://www.youtube.com/@drneilashton) has a podcasting channel where he dive deeper on topic related to CFD and AI in general. ([YouTube](https://www.youtube.com/@drneilashton "YouTube"))
 
-5. A course on [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture) from TU Braunschweig.
+5. For beginners, a good resource to learn OpenFOAM from József Nagy. OpenFOAM can be adapted for applying ML model coupled with N-S equations (e.g. RANS/LES closure). ([YouTube](https://www.youtube.com/c/J%C3%B3zsefNagyOpenFOAMGuru/playlists "YouTube"))
 
-6. Looking for courses on TensorFlow, PyTorch, GANs, etc.? Have a look at [this wonderful YouTube channel](https://www.youtube.com/c/AladdinPersson/playlists).
+6. A course on [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture) from TU Braunschweig.
 
-7. Interviews with researchers and podcasts about fluid mechanics, machine learning, and simulation are available [on this YouTube channel from Jousef Murad](https://www.youtube.com/c/TheEngiineer/videos).
+7. Looking for courses on TensorFlow, PyTorch, GANs, etc.? Have a look at [this wonderful YouTube channel](https://www.youtube.com/c/AladdinPersson/playlists).
 
-8. Lecture series videos from [Data-Driven Fluid Mechanics: Combining First Principles and Machine Learning](https://www.datadrivenfluidmechanics.com/index.php/lectures-videos).
+8. Interviews with researchers and podcasts about fluid mechanics, machine learning, and simulation are available [on this YouTube channel from Jousef Murad](https://www.youtube.com/c/TheEngiineer/videos).
 
-9. [Substack - AI/Machine learning in fluid mechanics, engineering, physics](https://hodgesj.substack.com) is informative with several ML-for-fluid examples and reviews.
+9. Lecture series videos from [Data-Driven Fluid Mechanics: Combining First Principles and Machine Learning](https://www.datadrivenfluidmechanics.com/index.php/lectures-videos).
+
+10. [Substack - AI/Machine learning in fluid mechanics, engineering, physics](https://hodgesj.substack.com) is informative with several ML-for-fluid examples and reviews.
 
 ## Blogs and News Articles
 
