@@ -573,6 +573,7 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 9. [Repository from KTH-FLOW for ML in Fluid Dynamics](https://github.com/KTH-FlowAI) has several implementations from various published papers.
 
 ## Companies Focusing on ML
+0. [PhysicsX] is building AI-driven simulation software stack for engineering and manufacturing across advanced industries. In its Series B funding, [company raised more than USD 155M, valuing the company at nearly USD 1B](https://www.physicsx.ai/newsroom/physicsx-announces-extension-to-series-b-round). 
 
 1. [P-1 AI](http://p-1.ai) promises to deliver engineering AGI and [managed to raise $23 million seed financing](https://www.businesswire.com/news/home/20250425073932/en/P-1-AI-Comes-Out-of-Stealth-Aims-to-Build-Engineering-AGI-for-Physical-Systems).
 
