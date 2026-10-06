@@ -452,6 +452,8 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 6. sCO2: Spatial data along the tube for heated and cooled pipe under supercritical pressure. It includes around 50 cases, which is a good start for regression-based models to replace correlations. ([Data](https://www.ike.uni-stuttgart.de/forschung/Ueberkritisches-CO2/dns/ "Data") | [Paper-1](https://www.sciencedirect.com/science/article/abs/pii/S0017931017353176 "Paper-1") | [Paper-2](https://www.sciencedirect.com/science/article/abs/pii/S0017931017307998 "Paper-2"))
 
+7. MegaFlow2D: Paired low- and high-resolution 2D CFD simulations for machine-learning super-resolution research, 2023. ([Code and documentation](https://github.com/cmudrc/MegaFlow2D) | [Dataset](https://huggingface.co/datasets/cmudrc/MegaFlow2D) | [Paper](https://doi.org/10.1145/3576914.3587552))
+
 ## Online Resources
 
 1. A first course on machine learning from Nando di Freitas: Little old, recorded in 2013 but very concise and clear. ([YouTube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6 "YouTube") | [Slides](https://www.cs.ubc.ca/~nando/540-2013/lectures.html "Slides"))
