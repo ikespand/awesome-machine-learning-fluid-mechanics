@@ -712,5 +712,11 @@ The following open-source CFD codes can be adapted for synthetic data generation
         <sub><b>@Mohamedelrefaie</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/cmccomb">
+        <img src="https://github.com/cmccomb.png?size=100" width="100" alt="cmccomb"/><br />
+        <sub><b>@cmccomb</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
