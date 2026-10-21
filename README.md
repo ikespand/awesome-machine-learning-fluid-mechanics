@@ -151,23 +151,25 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 2. ALL-FEM: Agentic Large Language Models fine-tuned for finite element methods, 2026. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0045782526002586) | [arXiv](https://arxiv.org/pdf/2603.21011))
 
-3. Towards a Physics Foundation Model, 2025. ([arXiv](https://arxiv.org/abs/2509.13805) | [Code](https://github.com/FloWsnr/General-Physics-Transformer) | [Blog](https://flowsnr.github.io/blog/physics-foundation-model/))
+3. AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing, 2026. ([arXiv](https://arxiv.org/abs/2602.17607) | [Code](https://github.com/Daviddjddu/Autonumerics))
 
-4. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
+4. Towards a Physics Foundation Model, 2025. ([arXiv](https://arxiv.org/abs/2509.13805) | [Code](https://github.com/FloWsnr/General-Physics-Transformer) | [Blog](https://flowsnr.github.io/blog/physics-foundation-model/))
 
-5. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
+5. Foam-Agent: Towards Automated Intelligent CFD Workflows, 2025. ([arXiv](https://arxiv.org/abs/2505.04997) | [Code](https://github.com/csml-rpi/Foam-Agent))
 
-6. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design, 2025. ([Paper](https://arxiv.org/abs/2503.23315))
+6. Fine-tuning a Large Language Model for Automating Computational Fluid Dynamics Simulations, 2025. ([arXiv](https://arxiv.org/abs/2504.09602) | [Paper](https://www.sciencedirect.com/science/article/pii/S2095034925000261) | [Code](https://github.com/YYgroup/AutoCFD) | [Data](https://huggingface.co/datasets/YYgroup/NL2FOAM))
 
-7. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
+7. AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design, 2025. ([Paper](https://arxiv.org/abs/2503.23315))
 
-8. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
+8. MetaOpenFOAM 2.0: Large Language Model Driven Chain of Thought for Automating CFD Simulation and Post-Processing, 2025. ([arXiv](https://arxiv.org/abs/2502.00498))
 
-9. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
+9. OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics, 2025. ([arXiv](https://arxiv.org/abs/2501.06327) | [Paper](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext))
 
-10. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+10. Can foundation language models predict fluid dynamics?, 2025. ([Paper](https://www.sciencedirect.com/science/article/pii/S0952197625014290))
 
-11. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
+11. MetaOpenFOAM: an LLM-based multi-agent framework for CFD, 2024. ([arXiv](https://arxiv.org/abs/2407.21320) | [Code](https://github.com/Terry-cyx/MetaOpenFOAM) | [YouTube Presentation](https://www.youtube.com/watch?v=DiQbce4_OqI))
+
+12. FLUID-LLM: Learning Computational Fluid Dynamics with Spatiotemporal-aware Large Language Models, 2024. ([arXiv](https://arxiv.org/abs/2406.04501))
 
 ### Quantum Machine Learning
 
@@ -197,66 +199,68 @@ A curated list of machine learning papers, codes, libraries, and databases appli
 
 ### Physics-informed ML
 
-1. Mitigating ill-conditioning of Reynolds-averaged Navier–Stokes equations for experimental data-driven turbulence closures, 2025. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/37/4/045155/3344393/Mitigating-ill-conditioning-of-Reynolds-averaged?redirectedFrom=fulltext))
+1. Staged Depth Training: A Representation Curriculum for PINNs, 2026. ([arXiv](https://arxiv.org/abs/2609.30299))
 
-2. Turbulence closure with small, local neural networks: Forced two-dimensional and $\beta$-plane flows, 2024. ([Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003795?af=R) | [arXiv](https://arxiv.org/abs/2304.05029))
+2. Mitigating ill-conditioning of Reynolds-averaged Navier–Stokes equations for experimental data-driven turbulence closures, 2025. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/37/4/045155/3344393/Mitigating-ill-conditioning-of-Reynolds-averaged?redirectedFrom=fulltext))
 
-3. Data-driven discovery of turbulent flow equations using physics-informed neural networks, 2024. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/36/3/035107/3268437/Data-driven-discovery-of-turbulent-flow-equations?redirectedFrom=fulltext))
+3. Turbulence closure with small, local neural networks: Forced two-dimensional and $\beta$-plane flows, 2024. ([Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003795?af=R) | [arXiv](https://arxiv.org/abs/2304.05029))
 
-4. Turbulence model augmented physics-informed neural networks for mean-flow reconstruction, 2024. ([Paper](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.034605) | [arXiv](https://arxiv.org/abs/2306.01065) | [Code](https://github.com/RigasLab/PINN_SA))
+4. Data-driven discovery of turbulent flow equations using physics-informed neural networks, 2024. ([Paper](https://pubs.aip.org/aip/pof/article-abstract/36/3/035107/3268437/Data-driven-discovery-of-turbulent-flow-equations?redirectedFrom=fulltext))
 
-5. Data-Driven Turbulence Modeling Approach for Cold-Wall Hypersonic Boundary Layers, 2024. ([arXiv](https://arxiv.org/abs/2406.17446))
+5. Turbulence model augmented physics-informed neural networks for mean-flow reconstruction, 2024. ([Paper](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.034605) | [arXiv](https://arxiv.org/abs/2306.01065) | [Code](https://github.com/RigasLab/PINN_SA))
 
-6. Generalized field inversion strategies for data-driven turbulence closure modeling, 2024. ([Open access paper](https://pubs.aip.org/aip/pof/article/36/10/105188/3318159/Generalized-field-inversion-strategies-for-data))
+6. Data-Driven Turbulence Modeling Approach for Cold-Wall Hypersonic Boundary Layers, 2024. ([arXiv](https://arxiv.org/abs/2406.17446))
 
-7. A Physics-Informed Autoencoder-NeuralODE Framework (Phy-ChemNODE) for Learning Complex Fuel Combustion Kinetics, 2024. ([Paper](https://neurips.cc/virtual/2024/100084))
+7. Generalized field inversion strategies for data-driven turbulence closure modeling, 2024. ([Open access paper](https://pubs.aip.org/aip/pof/article/36/10/105188/3318159/Generalized-field-inversion-strategies-for-data))
 
-8. Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection, 2023. ([arXiv](https://arxiv.org/abs/2307.02674))
+8. A Physics-Informed Autoencoder-NeuralODE Framework (Phy-ChemNODE) for Learning Complex Fuel Combustion Kinetics, 2024. ([Paper](https://neurips.cc/virtual/2024/100084))
 
-9. Machine learning for RANS turbulence modeling of variable property flows, 2023. ([arXiv](https://arxiv.org/abs/2210.15384) | [Paper](https://www.sciencedirect.com/science/article/pii/S0045793023000609))
+9. Extending a Physics-Informed Machine Learning Network for Superresolution Studies of Rayleigh-Bénard Convection, 2023. ([arXiv](https://arxiv.org/abs/2307.02674))
 
-10. A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty, 2023. ([arXiv](https://arxiv.org/abs/2307.02432))
+10. Machine learning for RANS turbulence modeling of variable property flows, 2023. ([arXiv](https://arxiv.org/abs/2210.15384) | [Paper](https://www.sciencedirect.com/science/article/pii/S0045793023000609))
+
+11. A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty, 2023. ([arXiv](https://arxiv.org/abs/2307.02432))
 
 <details>
 <summary>Archive</summary>
 
-11. Physics-informed data based neural networks for two-dimensional turbulence, 2022. ([arXiv](https://arxiv.org/pdf/2203.02555.pdf) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
+12. Physics-informed data based neural networks for two-dimensional turbulence, 2022. ([arXiv](https://arxiv.org/pdf/2203.02555.pdf) | [Paper](https://aip.scitation.org/doi/abs/10.1063/5.0090050))
 
-12. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations, 2022. ([arXiv](https://arxiv.org/abs/2209.09750))
+13. Deep Physics Corrector: A physics enhanced deep learning architecture for solving stochastic differential equations, 2022. ([arXiv](https://arxiv.org/abs/2209.09750))
 
-13. A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction, 2022. ([arXiv](https://arxiv.org/abs/2211.14680))
+14. A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction, 2022. ([arXiv](https://arxiv.org/abs/2211.14680))
 
-14. A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder, 2022. ([arXiv](https://arxiv.org/abs/2009.11990) | [Paper](https://www.sciencedirect.com/science/article/pii/S0021999121007361))
+15. A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder, 2022. ([arXiv](https://arxiv.org/abs/2009.11990) | [Paper](https://www.sciencedirect.com/science/article/pii/S0021999121007361))
 
-15. FluxNet: a physics-informed learning-based Riemann solver for transcritical flows with non-ideal thermodynamics, 2022. ([Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216629) | [Code](https://git.uwaterloo.ca/jc9wang/fluxnet))
+16. FluxNet: a physics-informed learning-based Riemann solver for transcritical flows with non-ideal thermodynamics, 2022. ([Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216629) | [Code](https://git.uwaterloo.ca/jc9wang/fluxnet))
 
-16. An Improved Structured Mesh Generation Method Based on Physics-informed Neural Networks, 2022. ([arXiv](https://arxiv.org/abs/2210.09546))
+17. An Improved Structured Mesh Generation Method Based on Physics-informed Neural Networks, 2022. ([arXiv](https://arxiv.org/abs/2210.09546))
 
-17. Physics-Informed Neural Networks for Inverse Problems in Supersonic Flows, 2022. ([arXiv](https://arxiv.org/abs/2202.11821) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999122004648))
+18. Physics-Informed Neural Networks for Inverse Problems in Supersonic Flows, 2022. ([arXiv](https://arxiv.org/abs/2202.11821) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0021999122004648))
 
-18. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([arXiv](https://arxiv.org/abs/2104.01842))
+19. Data-driven algebraic models of the turbulent Prandtl number for buoyancy-affected flow near a vertical surface, 2021. ([arXiv](https://arxiv.org/abs/2104.01842))
 
-19. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
+20. Convolutional Neural Network Models and Interpretability for the Anisotropic Reynolds Stress Tensor in Turbulent One-dimensional Flows, 2021. ([arXiv](https://arxiv.org/abs/2106.15757))
 
-20. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection, 2021. ([arXiv](https://arxiv.org/abs/2103.03565))
+21. Physics-aware deep neural networks for surrogate modeling of turbulent natural convection, 2021. ([arXiv](https://arxiv.org/abs/2103.03565))
 
-21. Learned Turbulence Modelling with Differentiable Fluid Solvers, 2021. ([arXiv](https://arxiv.org/abs/2202.06988))
+22. Learned Turbulence Modelling with Differentiable Fluid Solvers, 2021. ([arXiv](https://arxiv.org/abs/2202.06988))
 
-22. Data-driven fractional subgrid-scale modeling for scalar turbulence: A nonlocal LES approach, 2020. ([arXiv](https://arxiv.org/abs/2012.14027))
+23. Data-driven fractional subgrid-scale modeling for scalar turbulence: A nonlocal LES approach, 2020. ([arXiv](https://arxiv.org/abs/2012.14027))
 
-23. A machine learning framework for LES closure terms, 2020. ([arXiv](https://arxiv.org/abs/2010.03030))
+24. A machine learning framework for LES closure terms, 2020. ([arXiv](https://arxiv.org/abs/2010.03030))
 
-24. A neural network based shock detection and localization approach for discontinuous Galerkin methods, 2020. ([arXiv](https://arxiv.org/pdf/2001.08201.pdf))
+25. A neural network based shock detection and localization approach for discontinuous Galerkin methods, 2020. ([arXiv](https://arxiv.org/pdf/2001.08201.pdf))
 
-25. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, 2019. ([Paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125))
+26. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, 2019. ([Paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125))
 
-26. Neural network models for the anisotropic Reynolds stress tensor in turbulent channel flow, 2019. ([arXiv](https://arxiv.org/abs/1909.03591))
+27. Neural network models for the anisotropic Reynolds stress tensor in turbulent channel flow, 2019. ([arXiv](https://arxiv.org/abs/1909.03591))
 
-27. From deep to physics-informed learning of turbulence: Diagnostics, 2018. ([arXiv](https://arxiv.org/abs/1810.07785))
+28. From deep to physics-informed learning of turbulence: Diagnostics, 2018. ([arXiv](https://arxiv.org/abs/1810.07785))
 
-28. Subgrid modelling for two-dimensional turbulence using neural networks, 2018. ([arXiv](https://arxiv.org/abs/1808.02983) | [Code](https://github.com/Romit-Maulik/ML_2D_Turbulence))
+29. Subgrid modelling for two-dimensional turbulence using neural networks, 2018. ([arXiv](https://arxiv.org/abs/1808.02983) | [Code](https://github.com/Romit-Maulik/ML_2D_Turbulence))
 
-29. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB))
+30. Reynolds averaged turbulence modeling using deep neural networks with embedded invariance, 2016. ([Paper](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB))
 
 </details>
 
